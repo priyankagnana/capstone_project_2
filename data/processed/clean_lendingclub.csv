@@ -1,0 +1,1001 @@
+id,loan_amnt,int_rate,term_months,grade,sub_grade,emp_length_years,home_ownership,annual_inc,verification_status,purpose,addr_state,dti,issue_date,issue_year,issue_month,loan_status,is_default
+,2500,13.56,36.0,C,C1,10.0,RENT,55000.0,Not Verified,debt_consolidation,NY,18.24,2018-12-01,2018,2018-12,Current,0
+,30000,18.94,60.0,D,D2,10.0,MORTGAGE,90000.0,Source Verified,debt_consolidation,LA,26.52,2018-12-01,2018,2018-12,Current,0
+,5000,17.97,36.0,D,D1,6.0,MORTGAGE,59280.0,Source Verified,debt_consolidation,MI,10.51,2018-12-01,2018,2018-12,Current,0
+,4000,18.94,36.0,D,D2,10.0,MORTGAGE,92000.0,Source Verified,debt_consolidation,WA,16.74,2018-12-01,2018,2018-12,Current,0
+,30000,16.14,60.0,C,C4,10.0,MORTGAGE,57250.0,Not Verified,debt_consolidation,MD,26.35,2018-12-01,2018,2018-12,Current,0
+,5550,15.02,36.0,C,C3,10.0,MORTGAGE,152500.0,Not Verified,credit_card,IN,37.94,2018-12-01,2018,2018-12,Current,0
+,2000,17.97,36.0,D,D1,4.0,RENT,51000.0,Source Verified,debt_consolidation,IL,2.4,2018-12-01,2018,2018-12,Current,0
+,6000,13.56,36.0,C,C1,10.0,RENT,65000.0,Source Verified,credit_card,IN,30.1,2018-12-01,2018,2018-12,Current,0
+,5000,17.97,36.0,D,D1,10.0,MORTGAGE,53580.0,Source Verified,debt_consolidation,FL,21.16,2018-12-01,2018,2018-12,Current,0
+,6000,14.47,36.0,C,C2,0.0,OWN,300000.0,Not Verified,debt_consolidation,CT,17.43,2018-12-01,2018,2018-12,Current,0
+,5500,22.35,36.0,D,D5,0.0,MORTGAGE,50000.0,Not Verified,credit_card,LA,15.94,2018-12-01,2018,2018-12,Current,0
+,28000,11.31,60.0,B,B3,2.0,MORTGAGE,70000.0,Not Verified,credit_card,GA,22.01,2018-12-01,2018,2018-12,Current,0
+,11200,8.19,36.0,A,A4,10.0,MORTGAGE,65000.0,Not Verified,credit_card,UT,23.6,2018-12-01,2018,2018-12,Current,0
+,6500,17.97,36.0,D,D1,4.0,MORTGAGE,154000.0,Source Verified,debt_consolidation,NC,28.78,2018-12-01,2018,2018-12,Current,0
+,22000,12.98,60.0,B,B5,10.0,MORTGAGE,65000.0,Source Verified,debt_consolidation,KY,11.19,2018-12-01,2018,2018-12,Current,0
+,3500,16.14,36.0,C,C4,10.0,MORTGAGE,80000.0,Verified,debt_consolidation,IL,13.63,2018-12-01,2018,2018-12,Current,0
+,7000,12.98,36.0,B,B5,4.0,MORTGAGE,102500.0,Not Verified,house,OH,15.2,2018-12-01,2018,2018-12,Current,0
+,25000,16.91,60.0,C,C5,10.0,MORTGAGE,23878.0,Not Verified,debt_consolidation,OH,6.26,2018-12-01,2018,2018-12,Current,0
+,16000,20.89,60.0,D,D4,4.0,MORTGAGE,120000.0,Not Verified,credit_card,AR,27.57,2018-12-01,2018,2018-12,Current,0
+,13000,14.47,60.0,C,C2,10.0,MORTGAGE,75000.0,Not Verified,debt_consolidation,OK,26.16,2018-12-01,2018,2018-12,Current,0
+,10000,13.56,36.0,C,C1,0.0,MORTGAGE,65000.0,Not Verified,credit_card,CA,10.62,2018-12-01,2018,2018-12,Current,0
+,13000,14.47,36.0,C,C2,10.0,MORTGAGE,55000.0,Verified,credit_card,IL,10.58,2018-12-01,2018,2018-12,Current,0
+,9600,23.4,36.0,E,E1,9.0,RENT,65000.0,Not Verified,credit_card,WV,23.01,2018-12-01,2018,2018-12,Current,0
+,3500,20.89,36.0,D,D4,10.0,MORTGAGE,40000.0,Source Verified,car,NJ,9.09,2018-12-01,2018,2018-12,Current,0
+,16000,26.31,60.0,E,E4,0.0,RENT,33000.0,Source Verified,credit_card,SC,33.62,2018-12-01,2018,2018-12,Current,0
+,15000,14.47,60.0,C,C2,,MORTGAGE,30000.0,Source Verified,debt_consolidation,TX,41.6,2018-12-01,2018,2018-12,Current,0
+,13000,23.4,36.0,E,E1,2.0,MORTGAGE,90000.0,Verified,other,PA,39.73,2018-12-01,2018,2018-12,Current,0
+,23000,20.89,60.0,D,D4,5.0,RENT,68107.0,Source Verified,debt_consolidation,KS,0.52,2018-12-01,2018,2018-12,Current,0
+,8000,23.4,36.0,E,E1,10.0,OWN,43000.0,Source Verified,debt_consolidation,AL,33.24,2018-12-01,2018,2018-12,Current,0
+,32075,11.8,60.0,B,B4,10.0,MORTGAGE,150000.0,Not Verified,credit_card,VA,22.21,2018-12-01,2018,2018-12,Current,0
+,12000,13.56,60.0,C,C1,0.0,MORTGAGE,40000.0,Not Verified,debt_consolidation,PA,19.23,2018-12-01,2018,2018-12,Current,0
+,10000,19.92,60.0,D,D3,10.0,MORTGAGE,80000.0,Not Verified,debt_consolidation,MO,20.67,2018-12-01,2018,2018-12,Current,0
+,16000,17.97,60.0,D,D1,5.0,MORTGAGE,51000.0,Not Verified,debt_consolidation,NC,21.91,2018-12-01,2018,2018-12,Current,0
+,3300,23.4,36.0,E,E1,3.0,RENT,49700.0,Source Verified,vacation,GA,14.32,2018-12-01,2018,2018-12,Current,0
+,20000,11.8,60.0,B,B4,,MORTGAGE,47590.0,Verified,credit_card,PA,9.53,2018-12-01,2018,2018-12,Current,0
+,3500,20.89,36.0,D,D4,10.0,RENT,33190.0,Source Verified,credit_card,AZ,19.71,2018-12-01,2018,2018-12,Current,0
+,12000,26.31,36.0,E,E4,5.0,OWN,19000.0,Not Verified,credit_card,IL,35.88,2018-12-01,2018,2018-12,Current,0
+,10000,20.89,36.0,D,D4,7.0,RENT,74000.0,Not Verified,credit_card,NY,11.21,2018-12-01,2018,2018-12,Current,0
+,6000,6.46,36.0,A,A1,1.0,MORTGAGE,40000.0,Source Verified,credit_card,TX,12.87,2018-12-01,2018,2018-12,Current,0
+,25000,27.27,60.0,E,E5,5.0,MORTGAGE,171000.0,Not Verified,credit_card,WA,14.66,2018-12-01,2018,2018-12,Current,0
+,20000,12.98,36.0,B,B5,5.0,RENT,74800.0,Not Verified,debt_consolidation,IL,23.5,2018-12-01,2018,2018-12,Current,0
+,2200,15.02,36.0,C,C3,,RENT,70000.0,Not Verified,debt_consolidation,NM,14.16,2018-12-01,2018,2018-12,Current,0
+,25000,17.97,60.0,D,D1,7.0,RENT,53000.0,Verified,debt_consolidation,AL,12.64,2018-12-01,2018,2018-12,Current,0
+,4000,11.8,36.0,B,B4,,RENT,20000.0,Not Verified,debt_consolidation,PA,12.24,2018-12-01,2018,2018-12,Current,0
+,1250,23.4,36.0,E,E1,10.0,RENT,52000.0,Source Verified,other,IN,9.9,2018-12-01,2018,2018-12,Current,0
+,10400,12.98,36.0,B,B5,10.0,MORTGAGE,56099.0,Source Verified,credit_card,CO,20.92,2018-12-01,2018,2018-12,Current,0
+,7500,11.8,36.0,B,B4,,MORTGAGE,32700.0,Not Verified,debt_consolidation,AR,28.26,2018-12-01,2018,2018-12,Current,0
+,7000,10.72,36.0,B,B2,0.0,MORTGAGE,97000.0,Source Verified,other,VA,33.17,2018-12-01,2018,2018-12,Current,0
+,25000,12.98,36.0,B,B5,,OWN,30000.0,Not Verified,debt_consolidation,RI,24.88,2018-12-01,2018,2018-12,Current,0
+,8000,11.8,36.0,B,B4,7.0,MORTGAGE,85000.0,Not Verified,credit_card,AL,23.61,2018-12-01,2018,2018-12,Current,0
+,9000,10.33,36.0,B,B1,4.0,MORTGAGE,75000.0,Not Verified,credit_card,WI,13.14,2018-12-01,2018,2018-12,Current,0
+,9600,15.02,36.0,C,C3,10.0,OWN,60000.0,Not Verified,debt_consolidation,NJ,32.64,2018-12-01,2018,2018-12,Current,0
+,8000,10.72,36.0,B,B2,10.0,MORTGAGE,82923.0,Source Verified,car,CO,18.55,2018-12-01,2018,2018-12,Current,0
+,12000,16.14,36.0,C,C4,6.0,RENT,24000.0,Source Verified,credit_card,AZ,23.55,2018-12-01,2018,2018-12,Current,0
+,20000,13.56,36.0,C,C1,9.0,MORTGAGE,40000.0,Verified,debt_consolidation,CT,31.02,2018-12-01,2018,2018-12,Current,0
+,40000,14.47,60.0,C,C2,0.0,MORTGAGE,500000.0,Source Verified,debt_consolidation,GA,13.47,2018-12-01,2018,2018-12,Current,0
+,14400,14.47,60.0,C,C2,3.0,RENT,110000.0,Not Verified,debt_consolidation,CA,10.83,2018-12-01,2018,2018-12,Current,0
+,22400,8.81,36.0,A,A5,2.0,MORTGAGE,30000.0,Source Verified,debt_consolidation,CT,43.32,2018-12-01,2018,2018-12,Current,0
+,25000,10.33,36.0,B,B1,2.0,OWN,78000.0,Not Verified,debt_consolidation,TN,25.67,2018-12-01,2018,2018-12,Current,0
+,26000,18.94,60.0,D,D2,10.0,MORTGAGE,40000.0,Source Verified,debt_consolidation,MI,20.61,2018-12-01,2018,2018-12,Current,0
+,25000,15.02,60.0,C,C3,10.0,MORTGAGE,63500.0,Verified,debt_consolidation,NC,27.52,2018-12-01,2018,2018-12,Current,0
+,1000,30.75,36.0,F,F5,,MORTGAGE,50000.0,Verified,other,IL,19.9,2018-12-01,2018,2018-12,Current,0
+,2000,8.19,36.0,A,A4,4.0,MORTGAGE,100000.0,Not Verified,credit_card,PA,16.42,2018-12-01,2018,2018-12,Current,0
+,9000,6.46,36.0,A,A1,10.0,MORTGAGE,35000.0,Source Verified,debt_consolidation,CT,32.65,2018-12-01,2018,2018-12,Current,0
+,20000,13.56,36.0,C,C1,10.0,MORTGAGE,98500.0,Source Verified,debt_consolidation,CA,9.06,2018-12-01,2018,2018-12,Current,0
+,29450,8.19,36.0,A,A4,10.0,MORTGAGE,161000.0,Source Verified,debt_consolidation,CA,10.99,2018-12-01,2018,2018-12,Current,0
+,34625,16.14,60.0,C,C4,10.0,MORTGAGE,137500.0,Source Verified,debt_consolidation,TX,27.88,2018-12-01,2018,2018-12,Current,0
+,31450,7.56,36.0,A,A3,7.0,MORTGAGE,130000.0,Verified,debt_consolidation,NV,9.29,2018-12-01,2018,2018-12,Current,0
+,15500,10.72,36.0,B,B2,10.0,RENT,52000.0,Not Verified,credit_card,CA,16.66,2018-12-01,2018,2018-12,Current,0
+,12000,11.8,36.0,B,B4,10.0,RENT,79365.0,Source Verified,debt_consolidation,NY,29.7,2018-12-01,2018,2018-12,Current,0
+,36000,17.97,60.0,D,D1,9.0,RENT,160000.0,Source Verified,debt_consolidation,MA,33.17,2018-12-01,2018,2018-12,Current,0
+,30000,16.14,36.0,C,C4,7.0,MORTGAGE,116000.0,Source Verified,debt_consolidation,TX,28.21,2018-12-01,2018,2018-12,Current,0
+,3000,17.97,36.0,D,D1,10.0,RENT,50000.0,Source Verified,debt_consolidation,NY,30.03,2018-12-01,2018,2018-12,Current,0
+,35000,12.98,36.0,B,B5,2.0,RENT,112000.0,Source Verified,debt_consolidation,IL,15.55,2018-12-01,2018,2018-12,Current,0
+,26500,11.31,60.0,B,B3,10.0,MORTGAGE,134000.0,Source Verified,credit_card,OK,18.91,2018-12-01,2018,2018-12,Current,0
+,4000,23.4,36.0,E,E1,3.0,RENT,90000.0,Source Verified,debt_consolidation,NJ,26.33,2018-12-01,2018,2018-12,Current,0
+,12000,22.35,60.0,D,D5,0.0,OWN,65000.0,Source Verified,credit_card,IL,13.05,2018-12-01,2018,2018-12,Current,0
+,3000,15.02,36.0,C,C3,4.0,MORTGAGE,60000.0,Source Verified,home_improvement,NY,21.36,2018-12-01,2018,2018-12,Current,0
+,8000,14.47,36.0,C,C2,4.0,RENT,42300.0,Not Verified,credit_card,KY,19.49,2018-12-01,2018,2018-12,Current,0
+,10250,10.72,36.0,B,B2,10.0,MORTGAGE,96000.0,Not Verified,debt_consolidation,CA,8.31,2018-12-01,2018,2018-12,Current,0
+,22400,16.14,60.0,C,C4,10.0,OWN,56000.0,Source Verified,credit_card,VA,18.47,2018-12-01,2018,2018-12,Current,0
+,27000,15.02,60.0,C,C3,10.0,MORTGAGE,45000.0,Source Verified,debt_consolidation,MO,23.55,2018-12-01,2018,2018-12,Current,0
+,24000,19.92,36.0,D,D3,7.0,RENT,30000.0,Verified,credit_card,TX,67.68,2018-12-01,2018,2018-12,Current,0
+,6500,10.72,36.0,B,B2,0.0,RENT,50000.0,Not Verified,debt_consolidation,CA,24.29,2018-12-01,2018,2018-12,Current,0
+,25000,16.91,36.0,C,C5,10.0,RENT,95000.0,Source Verified,debt_consolidation,CA,13.78,2018-12-01,2018,2018-12,Current,0
+,8000,10.72,36.0,B,B2,2.0,RENT,95000.0,Not Verified,credit_card,IL,10.47,2018-12-01,2018,2018-12,Current,0
+,21000,15.02,60.0,C,C3,5.0,OWN,50000.0,Source Verified,debt_consolidation,OH,0.0,2018-12-01,2018,2018-12,Current,0
+,10000,14.47,36.0,C,C2,10.0,RENT,47000.0,Source Verified,credit_card,NC,15.25,2018-12-01,2018,2018-12,Current,0
+,7500,16.14,36.0,C,C4,10.0,OWN,50000.0,Source Verified,home_improvement,NC,16.11,2018-12-01,2018,2018-12,Current,0
+,30000,16.91,36.0,C,C5,10.0,RENT,40000.0,Verified,debt_consolidation,NJ,16.44,2018-12-01,2018,2018-12,Current,0
+,3775,13.56,36.0,C,C1,,OWN,5000.0,Source Verified,home_improvement,KY,66.86,2018-12-01,2018,2018-12,Current,0
+,5600,11.31,36.0,B,B3,,RENT,20166.0,Not Verified,debt_consolidation,CT,39.58,2018-12-01,2018,2018-12,Current,0
+,6000,16.14,36.0,C,C4,3.0,RENT,40000.0,Source Verified,other,MD,3.75,2018-12-01,2018,2018-12,Current,0
+,16000,15.02,36.0,C,C3,4.0,OWN,50000.0,Source Verified,debt_consolidation,AL,17.79,2018-12-01,2018,2018-12,Current,0
+,15000,16.14,36.0,C,C4,3.0,RENT,60000.0,Source Verified,credit_card,GA,18.86,2018-12-01,2018,2018-12,Current,0
+,21000,15.02,60.0,C,C3,10.0,RENT,109000.0,Not Verified,debt_consolidation,WI,23.25,2018-12-01,2018,2018-12,Current,0
+,25000,20.89,60.0,D,D4,1.0,MORTGAGE,70000.0,Not Verified,debt_consolidation,NC,26.08,2018-12-01,2018,2018-12,Current,0
+,1000,8.19,36.0,A,A4,10.0,MORTGAGE,78000.0,Source Verified,other,WA,8.58,2018-12-01,2018,2018-12,Current,0
+,16000,20.89,60.0,D,D4,10.0,RENT,200000.0,Verified,credit_card,NC,14.42,2018-12-01,2018,2018-12,Current,0
+,8500,16.91,36.0,C,C5,7.0,MORTGAGE,70200.0,Not Verified,debt_consolidation,VA,3.62,2018-12-01,2018,2018-12,Current,0
+,30000,22.35,36.0,D,D5,5.0,MORTGAGE,100000.0,Source Verified,debt_consolidation,CA,30.46,2018-12-01,2018,2018-12,Fully Paid,0
+,3000,8.81,36.0,A,A5,,RENT,71250.0,Not Verified,debt_consolidation,WA,5.71,2018-12-01,2018,2018-12,Current,0
+,16000,23.4,36.0,E,E1,10.0,MORTGAGE,140000.0,Not Verified,credit_card,CA,18.39,2018-12-01,2018,2018-12,Current,0
+,8000,12.98,36.0,B,B5,4.0,MORTGAGE,95000.0,Source Verified,credit_card,MI,9.44,2018-12-01,2018,2018-12,Current,0
+,30000,17.97,60.0,D,D1,10.0,MORTGAGE,65000.0,Source Verified,debt_consolidation,CA,8.12,2018-12-01,2018,2018-12,Current,0
+,6000,14.47,36.0,C,C2,10.0,RENT,55000.0,Verified,credit_card,NY,10.65,2018-12-01,2018,2018-12,Current,0
+,5000,12.98,36.0,B,B5,2.0,RENT,80000.0,Not Verified,debt_consolidation,NY,2.39,2018-12-01,2018,2018-12,Current,0
+,10000,16.14,36.0,C,C4,0.0,MORTGAGE,90000.0,Not Verified,debt_consolidation,CA,7.85,2018-12-01,2018,2018-12,Current,0
+,20000,16.14,60.0,C,C4,10.0,MORTGAGE,30000.0,Source Verified,other,IL,38.16,2018-12-01,2018,2018-12,Current,0
+,22650,10.72,36.0,B,B2,7.0,MORTGAGE,145000.0,Not Verified,home_improvement,FL,17.06,2018-12-01,2018,2018-12,Current,0
+,10000,11.31,36.0,B,B3,2.0,OWN,35000.0,Not Verified,debt_consolidation,WA,15.6,2018-12-01,2018,2018-12,Current,0
+,24000,10.33,36.0,B,B1,10.0,MORTGAGE,100000.0,Not Verified,debt_consolidation,IL,19.14,2018-12-01,2018,2018-12,Current,0
+,4000,18.94,36.0,D,D2,0.0,MORTGAGE,37000.0,Not Verified,debt_consolidation,MO,9.34,2018-12-01,2018,2018-12,Current,0
+,30000,15.02,36.0,C,C3,10.0,RENT,90000.0,Verified,debt_consolidation,NE,22.23,2018-12-01,2018,2018-12,Current,0
+,11000,16.14,36.0,C,C4,3.0,MORTGAGE,240000.0,Not Verified,debt_consolidation,MI,9.03,2018-12-01,2018,2018-12,Current,0
+,24000,13.56,60.0,C,C1,10.0,MORTGAGE,125000.0,Source Verified,credit_card,IL,25.29,2018-12-01,2018,2018-12,Current,0
+,18000,10.72,60.0,B,B2,10.0,MORTGAGE,32000.0,Verified,debt_consolidation,CA,46.63,2018-12-01,2018,2018-12,Current,0
+,18000,8.81,36.0,A,A5,0.0,RENT,40000.0,Source Verified,debt_consolidation,NY,12.81,2018-12-01,2018,2018-12,Current,0
+,5525,15.02,36.0,C,C3,10.0,RENT,118000.0,Not Verified,car,FL,3.25,2018-12-01,2018,2018-12,Current,0
+,2525,16.91,36.0,C,C5,1.0,RENT,21000.0,Verified,credit_card,FL,15.89,2018-12-01,2018,2018-12,Current,0
+,32000,14.47,60.0,C,C2,10.0,MORTGAGE,110000.0,Source Verified,home_improvement,PA,26.11,2018-12-01,2018,2018-12,Current,0
+,16000,25.34,36.0,E,E3,2.0,RENT,52000.0,Verified,debt_consolidation,VA,21.26,2018-12-01,2018,2018-12,Current,0
+,16000,14.47,36.0,C,C2,0.0,RENT,200000.0,Source Verified,debt_consolidation,PA,23.53,2018-12-01,2018,2018-12,Current,0
+,18500,12.98,60.0,B,B5,5.0,RENT,96500.0,Source Verified,credit_card,MN,27.86,2018-12-01,2018,2018-12,Current,0
+,3000,10.72,36.0,B,B2,,MORTGAGE,30000.0,Not Verified,credit_card,TX,24.2,2018-12-01,2018,2018-12,Current,0
+,23000,19.92,60.0,D,D3,,OWN,75000.0,Not Verified,debt_consolidation,NY,32.14,2018-12-01,2018,2018-12,Current,0
+,1500,17.97,36.0,D,D1,10.0,MORTGAGE,56160.0,Verified,other,MD,26.58,2018-12-01,2018,2018-12,Current,0
+,24000,12.98,60.0,B,B5,10.0,MORTGAGE,380000.0,Not Verified,debt_consolidation,LA,7.05,2018-12-01,2018,2018-12,Current,0
+,5000,16.14,36.0,C,C4,3.0,RENT,50000.0,Source Verified,credit_card,CA,3.35,2018-12-01,2018,2018-12,Current,0
+,25000,10.33,36.0,B,B1,10.0,MORTGAGE,80000.0,Not Verified,debt_consolidation,SC,31.23,2018-12-01,2018,2018-12,Current,0
+,2500,20.89,36.0,D,D4,3.0,RENT,29000.0,Source Verified,other,NY,2.57,2018-12-01,2018,2018-12,Current,0
+,12000,14.47,60.0,C,C2,10.0,RENT,62000.0,Not Verified,debt_consolidation,NH,18.76,2018-12-01,2018,2018-12,Current,0
+,9600,23.4,36.0,E,E1,3.0,RENT,100000.0,Not Verified,small_business,OH,15.79,2018-12-01,2018,2018-12,Current,0
+,10000,11.31,36.0,B,B3,,MORTGAGE,10020.0,Verified,other,CA,123.47,2018-12-01,2018,2018-12,Current,0
+,7000,15.02,36.0,C,C3,7.0,MORTGAGE,52000.0,Not Verified,debt_consolidation,RI,20.89,2018-12-01,2018,2018-12,Current,0
+,8000,23.4,36.0,E,E1,1.0,RENT,49400.0,Verified,other,CA,23.92,2018-12-01,2018,2018-12,Current,0
+,5000,16.14,36.0,C,C4,0.0,MORTGAGE,115000.0,Not Verified,other,NE,17.07,2018-12-01,2018,2018-12,Current,0
+,10000,10.33,36.0,B,B1,0.0,MORTGAGE,280000.0,Not Verified,debt_consolidation,OR,6.15,2018-12-01,2018,2018-12,Current,0
+,8000,10.33,36.0,B,B1,6.0,MORTGAGE,38000.0,Source Verified,credit_card,PA,19.84,2018-12-01,2018,2018-12,Current,0
+,4000,18.94,36.0,D,D2,,RENT,19000.0,Not Verified,major_purchase,CA,21.29,2018-12-01,2018,2018-12,Current,0
+,24000,11.31,60.0,B,B3,1.0,MORTGAGE,72000.0,Not Verified,debt_consolidation,IL,21.12,2018-12-01,2018,2018-12,Current,0
+,25000,16.14,60.0,C,C4,5.0,MORTGAGE,45000.0,Not Verified,debt_consolidation,LA,37.09,2018-12-01,2018,2018-12,Current,0
+,3000,17.97,36.0,D,D1,7.0,MORTGAGE,33000.0,Source Verified,other,TX,7.31,2018-12-01,2018,2018-12,Current,0
+,35000,18.94,60.0,D,D2,10.0,RENT,90000.0,Source Verified,debt_consolidation,OH,13.96,2018-12-01,2018,2018-12,Current,0
+,8800,16.91,36.0,C,C5,0.0,MORTGAGE,21000.0,Not Verified,debt_consolidation,TX,32.69,2018-12-01,2018,2018-12,Current,0
+,10500,11.8,60.0,B,B4,,OWN,36000.0,Verified,debt_consolidation,AZ,30.57,2018-12-01,2018,2018-12,Current,0
+,25000,14.47,60.0,C,C2,3.0,MORTGAGE,65000.0,Verified,credit_card,VT,29.36,2018-12-01,2018,2018-12,Current,0
+,5500,11.31,36.0,B,B3,5.0,MORTGAGE,98000.0,Not Verified,debt_consolidation,TX,14.62,2018-12-01,2018,2018-12,Current,0
+,12000,14.47,60.0,C,C2,6.0,MORTGAGE,39000.0,Source Verified,debt_consolidation,NY,16.06,2018-12-01,2018,2018-12,Current,0
+,8500,16.14,36.0,C,C4,8.0,MORTGAGE,80000.0,Not Verified,home_improvement,TX,16.59,2018-12-01,2018,2018-12,Current,0
+,35000,20.89,60.0,D,D4,10.0,RENT,80000.0,Verified,other,TX,36.84,2018-12-01,2018,2018-12,Current,0
+,8250,17.97,36.0,D,D1,10.0,MORTGAGE,68000.0,Not Verified,debt_consolidation,AL,26.42,2018-12-01,2018,2018-12,Current,0
+,40000,16.14,60.0,C,C4,0.0,MORTGAGE,45000.0,Verified,credit_card,OH,50.53,2018-12-01,2018,2018-12,Fully Paid,0
+,20000,10.33,36.0,B,B1,10.0,MORTGAGE,60000.0,Not Verified,debt_consolidation,OH,17.66,2018-12-01,2018,2018-12,Current,0
+,18000,8.81,36.0,A,A5,3.0,RENT,100203.0,Not Verified,debt_consolidation,DC,12.3,2018-12-01,2018,2018-12,Current,0
+,11000,14.47,36.0,C,C2,10.0,MORTGAGE,89000.0,Not Verified,debt_consolidation,NJ,24.82,2018-12-01,2018,2018-12,Current,0
+,12000,16.14,36.0,C,C4,4.0,RENT,70000.0,Source Verified,credit_card,FL,18.96,2018-12-01,2018,2018-12,Current,0
+,15000,13.56,60.0,C,C1,0.0,RENT,72000.0,Not Verified,credit_card,GA,8.98,2018-12-01,2018,2018-12,Current,0
+,4000,16.91,36.0,C,C5,5.0,RENT,54000.0,Source Verified,home_improvement,FL,9.64,2018-12-01,2018,2018-12,Current,0
+,32000,12.98,60.0,B,B5,4.0,MORTGAGE,70000.0,Verified,debt_consolidation,FL,20.17,2018-12-01,2018,2018-12,Current,0
+,15000,14.47,60.0,C,C2,10.0,MORTGAGE,120000.0,Source Verified,debt_consolidation,SC,13.58,2018-12-01,2018,2018-12,Current,0
+,18000,14.47,60.0,C,C2,7.0,MORTGAGE,60000.0,Verified,debt_consolidation,UT,18.12,2018-12-01,2018,2018-12,Current,0
+,13000,17.97,36.0,D,D1,10.0,MORTGAGE,92360.0,Source Verified,home_improvement,GA,27.44,2018-12-01,2018,2018-12,Current,0
+,10000,16.14,36.0,C,C4,1.0,MORTGAGE,63000.0,Not Verified,debt_consolidation,IL,18.65,2018-12-01,2018,2018-12,Current,0
+,3600,11.8,36.0,B,B4,5.0,MORTGAGE,50000.0,Source Verified,other,KY,16.11,2018-12-01,2018,2018-12,Current,0
+,22000,11.8,60.0,B,B4,10.0,MORTGAGE,155000.0,Source Verified,credit_card,IN,28.56,2018-12-01,2018,2018-12,Current,0
+,10450,18.94,36.0,D,D2,10.0,MORTGAGE,70000.0,Source Verified,debt_consolidation,TN,27.38,2018-12-01,2018,2018-12,Current,0
+,10000,11.8,36.0,B,B4,9.0,RENT,100000.0,Not Verified,credit_card,CA,23.3,2018-12-01,2018,2018-12,Current,0
+,10000,18.94,36.0,D,D2,7.0,MORTGAGE,37115.0,Not Verified,other,NV,33.57,2018-12-01,2018,2018-12,Current,0
+,5000,11.31,36.0,B,B3,2.0,RENT,40000.0,Source Verified,debt_consolidation,NC,9.66,2018-12-01,2018,2018-12,Current,0
+,20000,7.56,36.0,A,A3,10.0,MORTGAGE,100000.0,Not Verified,credit_card,WA,18.92,2018-12-01,2018,2018-12,Fully Paid,0
+,17100,18.94,36.0,D,D2,10.0,RENT,38000.0,Verified,debt_consolidation,PA,38.09,2018-12-01,2018,2018-12,Current,0
+,10475,11.31,36.0,B,B3,6.0,RENT,66150.0,Source Verified,debt_consolidation,TX,7.4,2018-12-01,2018,2018-12,Current,0
+,10000,23.4,60.0,E,E1,0.0,RENT,55000.0,Source Verified,debt_consolidation,CA,13.51,2018-12-01,2018,2018-12,Current,0
+,7500,11.31,36.0,B,B3,7.0,MORTGAGE,40500.0,Verified,debt_consolidation,IL,31.61,2018-12-01,2018,2018-12,Current,0
+,4000,10.72,36.0,B,B2,10.0,MORTGAGE,56000.0,Verified,credit_card,GA,31.03,2018-12-01,2018,2018-12,Current,0
+,15400,14.47,60.0,C,C2,3.0,MORTGAGE,110000.0,Not Verified,debt_consolidation,OH,36.55,2018-12-01,2018,2018-12,Current,0
+,35000,14.47,36.0,C,C2,8.0,MORTGAGE,360000.0,Verified,credit_card,FL,19.9,2018-12-01,2018,2018-12,Current,0
+,30000,27.27,60.0,E,E5,1.0,RENT,50000.0,Not Verified,debt_consolidation,AZ,23.62,2018-12-01,2018,2018-12,Current,0
+,16800,17.97,60.0,D,D1,10.0,RENT,75000.0,Not Verified,debt_consolidation,CA,18.53,2018-12-01,2018,2018-12,Current,0
+,25000,15.02,60.0,C,C3,10.0,MORTGAGE,75000.0,Not Verified,debt_consolidation,WA,32.93,2018-12-01,2018,2018-12,Current,0
+,10000,16.14,36.0,C,C4,10.0,MORTGAGE,94800.0,Source Verified,credit_card,FL,28.59,2018-12-01,2018,2018-12,Current,0
+,20000,12.98,60.0,B,B5,1.0,MORTGAGE,70000.0,Verified,debt_consolidation,CA,21.38,2018-12-01,2018,2018-12,Current,0
+,35000,15.02,60.0,C,C3,10.0,MORTGAGE,106095.0,Source Verified,debt_consolidation,MA,15.38,2018-12-01,2018,2018-12,Current,0
+,4000,18.94,36.0,D,D2,10.0,OWN,80000.0,Verified,other,VA,12.45,2018-12-01,2018,2018-12,Current,0
+,10000,16.14,60.0,C,C4,2.0,RENT,90000.0,Not Verified,debt_consolidation,NJ,8.8,2018-12-01,2018,2018-12,Current,0
+,4500,11.31,36.0,B,B3,10.0,RENT,38500.0,Not Verified,credit_card,TX,4.64,2018-12-01,2018,2018-12,Fully Paid,0
+,14000,26.31,60.0,E,E4,,RENT,55000.0,Not Verified,debt_consolidation,CA,7.11,2018-12-01,2018,2018-12,Current,0
+,6500,11.8,36.0,B,B4,2.0,RENT,46500.0,Source Verified,debt_consolidation,AL,21.01,2018-12-01,2018,2018-12,Current,0
+,29625,15.02,60.0,C,C3,0.0,OWN,48000.0,Not Verified,debt_consolidation,TX,16.38,2018-12-01,2018,2018-12,Current,0
+,16000,27.27,60.0,E,E5,7.0,OWN,88000.0,Source Verified,debt_consolidation,IN,28.88,2018-12-01,2018,2018-12,Current,0
+,12000,14.47,60.0,C,C2,1.0,RENT,67000.0,Not Verified,credit_card,VA,28.39,2018-12-01,2018,2018-12,Current,0
+,35000,15.02,60.0,C,C3,10.0,MORTGAGE,290000.0,Source Verified,debt_consolidation,MO,7.6,2018-12-01,2018,2018-12,Current,0
+,30000,26.31,60.0,E,E4,10.0,OWN,62000.0,Source Verified,debt_consolidation,CA,37.24,2018-12-01,2018,2018-12,Current,0
+,16000,14.47,36.0,C,C2,10.0,RENT,150000.0,Source Verified,other,CA,17.94,2018-12-01,2018,2018-12,Current,0
+,24000,15.02,36.0,C,C3,3.0,OWN,105000.0,Not Verified,credit_card,LA,22.14,2018-12-01,2018,2018-12,Current,0
+,14000,16.14,36.0,C,C4,,MORTGAGE,77479.0,Not Verified,other,GA,23.65,2018-12-01,2018,2018-12,Current,0
+,40000,11.31,60.0,B,B3,0.0,MORTGAGE,136000.0,Not Verified,debt_consolidation,MI,15.41,2018-12-01,2018,2018-12,Current,0
+,24000,27.27,60.0,E,E5,10.0,MORTGAGE,140000.0,Not Verified,debt_consolidation,OR,23.92,2018-12-01,2018,2018-12,Current,0
+,28000,11.31,36.0,B,B3,5.0,RENT,82000.0,Verified,credit_card,CA,14.4,2018-12-01,2018,2018-12,Current,0
+,7075,23.4,36.0,E,E1,,RENT,19200.0,Not Verified,debt_consolidation,MO,30.34,2018-12-01,2018,2018-12,Current,0
+,1000,23.4,36.0,E,E1,,RENT,29000.0,Not Verified,debt_consolidation,MN,12.91,2018-12-01,2018,2018-12,Current,0
+,5400,14.47,36.0,C,C2,2.0,MORTGAGE,25000.0,Source Verified,credit_card,OK,9.46,2018-12-01,2018,2018-12,Current,0
+,10000,19.92,36.0,D,D3,,OWN,17440.0,Verified,credit_card,TN,39.5,2018-12-01,2018,2018-12,Current,0
+,10000,14.47,36.0,C,C2,7.0,RENT,90000.0,Source Verified,credit_card,OH,16.07,2018-12-01,2018,2018-12,Current,0
+,25000,16.91,36.0,C,C5,3.0,RENT,67000.0,Source Verified,debt_consolidation,KS,13.18,2018-12-01,2018,2018-12,Current,0
+,6000,6.46,36.0,A,A1,3.0,RENT,27000.0,Not Verified,credit_card,CA,7.64,2018-12-01,2018,2018-12,Current,0
+,7000,10.33,36.0,B,B1,3.0,RENT,45581.0,Not Verified,debt_consolidation,MA,17.4,2018-12-01,2018,2018-12,Current,0
+,30000,12.98,60.0,B,B5,2.0,MORTGAGE,113000.0,Not Verified,debt_consolidation,MI,16.26,2018-12-01,2018,2018-12,Current,0
+,5000,16.14,36.0,C,C4,6.0,RENT,110000.0,Not Verified,other,NJ,8.47,2018-12-01,2018,2018-12,Current,0
+,15000,15.02,36.0,C,C3,10.0,MORTGAGE,175000.0,Source Verified,home_improvement,NJ,17.02,2018-12-01,2018,2018-12,Current,0
+,15000,13.56,60.0,C,C1,4.0,MORTGAGE,75000.0,Source Verified,debt_consolidation,NC,11.79,2018-12-01,2018,2018-12,Current,0
+,20000,14.47,36.0,C,C2,4.0,OWN,52000.0,Source Verified,debt_consolidation,NE,30.65,2018-12-01,2018,2018-12,Current,0
+,20400,10.33,60.0,B,B1,10.0,MORTGAGE,140000.0,Not Verified,debt_consolidation,CO,5.04,2018-12-01,2018,2018-12,Current,0
+,20000,12.98,60.0,B,B5,0.0,RENT,40000.0,Source Verified,debt_consolidation,CA,27.54,2018-12-01,2018,2018-12,Current,0
+,8425,27.27,36.0,E,E5,3.0,MORTGAGE,450000.0,Verified,credit_card,MA,12.37,2018-12-01,2018,2018-12,Fully Paid,0
+,21000,16.91,36.0,C,C5,0.0,OWN,68000.0,Not Verified,house,FL,9.16,2018-12-01,2018,2018-12,Current,0
+,10000,14.47,36.0,C,C2,8.0,MORTGAGE,143000.0,Not Verified,debt_consolidation,TX,24.53,2018-12-01,2018,2018-12,Current,0
+,15000,15.02,36.0,C,C3,,MORTGAGE,42000.0,Verified,home_improvement,VA,12.17,2018-12-01,2018,2018-12,Current,0
+,24000,13.56,60.0,C,C1,10.0,MORTGAGE,75000.0,Not Verified,debt_consolidation,MI,15.54,2018-12-01,2018,2018-12,Current,0
+,15000,14.47,60.0,C,C2,9.0,RENT,280000.0,Verified,debt_consolidation,IL,16.15,2018-12-01,2018,2018-12,Current,0
+,5000,10.72,36.0,B,B2,5.0,OWN,72000.0,Not Verified,credit_card,CA,11.42,2018-12-01,2018,2018-12,Current,0
+,30000,20.89,60.0,D,D4,2.0,RENT,120000.0,Source Verified,debt_consolidation,CA,5.89,2018-12-01,2018,2018-12,Current,0
+,35000,19.92,60.0,D,D3,10.0,MORTGAGE,68000.0,Verified,debt_consolidation,GA,50.67,2018-12-01,2018,2018-12,Current,0
+,3000,10.33,36.0,B,B1,7.0,RENT,40000.0,Source Verified,credit_card,MI,10.68,2018-12-01,2018,2018-12,Current,0
+,1000,6.46,36.0,A,A1,3.0,MORTGAGE,49989.0,Not Verified,credit_card,NC,15.43,2018-12-01,2018,2018-12,Current,0
+,10000,14.47,60.0,C,C2,5.0,RENT,66931.0,Not Verified,debt_consolidation,NY,9.07,2018-12-01,2018,2018-12,Current,0
+,5000,11.31,36.0,B,B3,,RENT,13000.0,Not Verified,credit_card,PA,14.59,2018-12-01,2018,2018-12,Current,0
+,16500,17.97,60.0,D,D1,5.0,MORTGAGE,37000.0,Verified,debt_consolidation,TX,52.09,2018-12-01,2018,2018-12,Current,0
+,6000,15.02,36.0,C,C3,5.0,MORTGAGE,30000.0,Source Verified,debt_consolidation,NY,17.48,2018-12-01,2018,2018-12,Current,0
+,35000,12.98,60.0,B,B5,7.0,MORTGAGE,211646.0,Source Verified,debt_consolidation,TX,15.09,2018-12-01,2018,2018-12,Current,0
+,34575,17.97,60.0,D,D1,5.0,MORTGAGE,130000.0,Source Verified,home_improvement,AZ,26.43,2018-12-01,2018,2018-12,Current,0
+,1200,17.97,36.0,D,D1,10.0,OWN,52000.0,Not Verified,vacation,IL,25.61,2018-12-01,2018,2018-12,Current,0
+,9600,12.98,36.0,B,B5,,MORTGAGE,35704.0,Not Verified,home_improvement,KY,0.84,2018-12-01,2018,2018-12,Current,0
+,4800,16.91,36.0,C,C5,9.0,RENT,38500.0,Source Verified,credit_card,CO,28.55,2018-12-01,2018,2018-12,Current,0
+,5000,22.35,36.0,D,D5,10.0,MORTGAGE,72000.0,Source Verified,debt_consolidation,FL,20.12,2018-12-01,2018,2018-12,Current,0
+,10000,12.98,60.0,B,B5,9.0,RENT,60000.0,Not Verified,credit_card,KS,14.9,2018-12-01,2018,2018-12,Current,0
+,7500,10.72,36.0,B,B2,2.0,RENT,84000.0,Not Verified,debt_consolidation,IL,3.86,2018-12-01,2018,2018-12,Current,0
+,16000,17.97,60.0,D,D1,2.0,RENT,35000.0,Verified,debt_consolidation,CA,23.94,2018-12-01,2018,2018-12,Current,0
+,7200,23.4,36.0,E,E1,2.0,RENT,56000.0,Not Verified,debt_consolidation,NY,28.01,2018-12-01,2018,2018-12,Current,0
+,27975,14.47,36.0,C,C2,10.0,MORTGAGE,180000.0,Not Verified,credit_card,NY,11.47,2018-12-01,2018,2018-12,Current,0
+,16000,13.56,60.0,C,C1,10.0,RENT,46000.0,Not Verified,credit_card,TX,11.09,2018-12-01,2018,2018-12,Current,0
+,15000,10.72,36.0,B,B2,3.0,MORTGAGE,150000.0,Not Verified,debt_consolidation,NH,17.83,2018-12-01,2018,2018-12,Current,0
+,9000,11.8,36.0,B,B4,10.0,MORTGAGE,85000.0,Source Verified,credit_card,WA,39.76,2018-12-01,2018,2018-12,Current,0
+,1000,18.94,36.0,D,D2,3.0,MORTGAGE,57000.0,Source Verified,debt_consolidation,MD,15.49,2018-12-01,2018,2018-12,Current,0
+,28000,13.56,60.0,C,C1,10.0,MORTGAGE,128500.0,Source Verified,credit_card,TX,27.35,2018-12-01,2018,2018-12,Current,0
+,10000,11.31,36.0,B,B3,3.0,RENT,67427.0,Source Verified,major_purchase,MA,0.44,2018-12-01,2018,2018-12,Current,0
+,25000,14.47,60.0,C,C2,10.0,OWN,110000.0,Not Verified,credit_card,NY,26.43,2018-12-01,2018,2018-12,Current,0
+,23000,11.31,36.0,B,B3,3.0,MORTGAGE,145000.0,Source Verified,debt_consolidation,CO,29.62,2018-12-01,2018,2018-12,Current,0
+,25000,12.98,60.0,B,B5,10.0,MORTGAGE,85000.0,Not Verified,debt_consolidation,AL,36.67,2018-12-01,2018,2018-12,Current,0
+,15000,8.19,36.0,A,A4,10.0,MORTGAGE,92584.0,Not Verified,credit_card,FL,7.27,2018-12-01,2018,2018-12,Current,0
+,35000,18.94,60.0,D,D2,10.0,RENT,90000.0,Verified,other,NJ,20.06,2018-12-01,2018,2018-12,Current,0
+,5000,7.02,36.0,A,A2,4.0,RENT,26976.0,Not Verified,debt_consolidation,WA,9.74,2018-12-01,2018,2018-12,Current,0
+,35000,8.19,36.0,A,A4,10.0,MORTGAGE,325000.0,Not Verified,credit_card,NJ,8.18,2018-12-01,2018,2018-12,Current,0
+,30000,16.91,36.0,C,C5,10.0,RENT,85000.0,Source Verified,credit_card,VA,22.31,2018-12-01,2018,2018-12,Current,0
+,6600,8.19,36.0,A,A4,,MORTGAGE,95000.0,Not Verified,debt_consolidation,OR,5.61,2018-12-01,2018,2018-12,Current,0
+,20300,10.33,60.0,B,B1,2.0,MORTGAGE,185000.0,Not Verified,other,WA,20.57,2018-12-01,2018,2018-12,Current,0
+,4000,18.94,36.0,D,D2,1.0,RENT,57600.0,Not Verified,debt_consolidation,OR,10.17,2018-12-01,2018,2018-12,Current,0
+,10000,7.56,36.0,A,A3,10.0,OWN,44000.0,Not Verified,home_improvement,OK,10.88,2018-12-01,2018,2018-12,Current,0
+,21000,22.35,60.0,D,D5,3.0,MORTGAGE,99000.0,Source Verified,debt_consolidation,FL,31.62,2018-12-01,2018,2018-12,Current,0
+,10000,11.8,36.0,B,B4,7.0,MORTGAGE,80000.0,Not Verified,debt_consolidation,IL,18.04,2018-12-01,2018,2018-12,Current,0
+,3000,8.19,36.0,A,A4,10.0,MORTGAGE,100000.0,Not Verified,home_improvement,CA,29.27,2018-12-01,2018,2018-12,Current,0
+,8000,12.98,36.0,B,B5,3.0,MORTGAGE,52000.0,Not Verified,debt_consolidation,FL,30.05,2018-12-01,2018,2018-12,Current,0
+,1000,23.4,36.0,E,E1,4.0,RENT,35000.0,Source Verified,credit_card,IL,36.45,2018-12-01,2018,2018-12,Current,0
+,5100,7.02,36.0,A,A2,10.0,MORTGAGE,76000.0,Not Verified,credit_card,FL,26.54,2018-12-01,2018,2018-12,Current,0
+,4000,16.14,36.0,C,C4,10.0,MORTGAGE,64000.0,Not Verified,medical,NM,25.0,2018-12-01,2018,2018-12,Current,0
+,35000,17.97,60.0,D,D1,3.0,MORTGAGE,72000.0,Not Verified,home_improvement,FL,21.85,2018-12-01,2018,2018-12,Current,0
+,4000,7.02,36.0,A,A2,10.0,OWN,60000.0,Not Verified,other,MI,17.18,2018-12-01,2018,2018-12,Current,0
+,10000,8.81,36.0,A,A5,10.0,RENT,95000.0,Source Verified,debt_consolidation,IN,10.31,2018-12-01,2018,2018-12,Current,0
+,20000,17.97,60.0,D,D1,4.0,RENT,57000.0,Not Verified,debt_consolidation,WA,22.18,2018-12-01,2018,2018-12,Fully Paid,0
+,22000,12.98,60.0,B,B5,10.0,MORTGAGE,152000.0,Not Verified,debt_consolidation,OR,10.21,2018-12-01,2018,2018-12,Current,0
+,6600,11.31,36.0,B,B3,10.0,RENT,45000.0,Not Verified,credit_card,TX,16.21,2018-12-01,2018,2018-12,Fully Paid,0
+,3000,15.02,36.0,C,C3,5.0,MORTGAGE,95000.0,Not Verified,vacation,CA,11.47,2018-12-01,2018,2018-12,Current,0
+,35000,22.35,60.0,D,D5,10.0,RENT,213000.0,Not Verified,debt_consolidation,VA,26.82,2018-12-01,2018,2018-12,Current,0
+,5000,19.92,36.0,D,D3,0.0,RENT,38200.0,Source Verified,debt_consolidation,GA,28.93,2018-12-01,2018,2018-12,Current,0
+,6025,14.47,36.0,C,C2,4.0,RENT,16800.0,Not Verified,credit_card,MA,4.29,2018-12-01,2018,2018-12,Current,0
+,21600,8.19,36.0,A,A4,10.0,MORTGAGE,84200.0,Not Verified,debt_consolidation,MN,28.93,2018-12-01,2018,2018-12,Current,0
+,7000,20.89,36.0,D,D4,,MORTGAGE,65000.0,Not Verified,home_improvement,FL,30.45,2018-12-01,2018,2018-12,Current,0
+,10000,10.33,36.0,B,B1,2.0,RENT,96000.0,Not Verified,debt_consolidation,GA,19.1,2018-12-01,2018,2018-12,Current,0
+,18000,14.47,36.0,C,C2,10.0,MORTGAGE,63000.0,Source Verified,debt_consolidation,MI,32.29,2018-12-01,2018,2018-12,Current,0
+,15000,18.94,60.0,D,D2,10.0,MORTGAGE,165000.0,Source Verified,debt_consolidation,TX,3.07,2018-12-01,2018,2018-12,Current,0
+,7000,12.98,36.0,B,B5,2.0,MORTGAGE,51000.0,Not Verified,credit_card,OH,21.53,2018-12-01,2018,2018-12,Current,0
+,4500,10.33,36.0,B,B1,6.0,RENT,72000.0,Not Verified,debt_consolidation,OR,1.27,2018-12-01,2018,2018-12,Current,0
+,5000,6.46,36.0,A,A1,1.0,MORTGAGE,120000.0,Not Verified,credit_card,TX,15.54,2018-12-01,2018,2018-12,Current,0
+,10000,8.81,36.0,A,A5,6.0,RENT,62000.0,Source Verified,credit_card,UT,11.13,2018-12-01,2018,2018-12,Current,0
+,6000,7.02,36.0,A,A2,8.0,MORTGAGE,65000.0,Not Verified,other,WI,20.05,2018-12-01,2018,2018-12,Current,0
+,16000,8.81,36.0,A,A5,5.0,MORTGAGE,94000.0,Not Verified,credit_card,FL,14.91,2018-12-01,2018,2018-12,Current,0
+,4500,11.8,36.0,B,B4,10.0,MORTGAGE,98650.0,Source Verified,other,NC,25.09,2018-12-01,2018,2018-12,Current,0
+,5000,18.94,36.0,D,D2,6.0,MORTGAGE,60000.0,Not Verified,medical,CO,13.75,2018-12-01,2018,2018-12,Current,0
+,10000,10.72,36.0,B,B2,3.0,MORTGAGE,150000.0,Source Verified,credit_card,PA,15.83,2018-12-01,2018,2018-12,Current,0
+,17425,20.89,36.0,D,D4,10.0,RENT,109000.0,Not Verified,debt_consolidation,FL,28.78,2018-12-01,2018,2018-12,Current,0
+,10000,14.47,36.0,C,C2,0.0,OWN,60000.0,Not Verified,other,CA,20.88,2018-12-01,2018,2018-12,Current,0
+,2000,16.91,36.0,C,C5,4.0,MORTGAGE,71000.0,Source Verified,credit_card,FL,30.39,2018-12-01,2018,2018-12,Current,0
+,5000,10.72,36.0,B,B2,10.0,RENT,72000.0,Not Verified,debt_consolidation,FL,30.25,2018-12-01,2018,2018-12,Current,0
+,1300,7.56,36.0,A,A3,2.0,MORTGAGE,80000.0,Not Verified,credit_card,FL,6.05,2018-12-01,2018,2018-12,Current,0
+,20000,15.02,60.0,C,C3,6.0,RENT,80000.0,Source Verified,debt_consolidation,TN,19.37,2018-12-01,2018,2018-12,Current,0
+,2500,13.56,36.0,C,C1,5.0,RENT,42000.0,Not Verified,other,PA,15.09,2018-12-01,2018,2018-12,Fully Paid,0
+,5000,10.72,36.0,B,B2,10.0,RENT,50000.0,Source Verified,renewable_energy,OH,39.41,2018-12-01,2018,2018-12,Current,0
+,6000,8.19,36.0,A,A4,6.0,RENT,39000.0,Source Verified,debt_consolidation,FL,17.17,2018-12-01,2018,2018-12,Current,0
+,36000,11.8,60.0,B,B4,10.0,MORTGAGE,90000.0,Source Verified,credit_card,GA,37.94,2018-12-01,2018,2018-12,Current,0
+,16000,10.33,36.0,B,B1,4.0,MORTGAGE,65000.0,Source Verified,debt_consolidation,GA,15.27,2018-12-01,2018,2018-12,Current,0
+,16000,22.35,60.0,D,D5,5.0,MORTGAGE,138300.0,Not Verified,debt_consolidation,GA,4.28,2018-12-01,2018,2018-12,Current,0
+,8000,11.31,36.0,B,B3,4.0,MORTGAGE,60000.0,Not Verified,credit_card,SC,13.8,2018-12-01,2018,2018-12,Current,0
+,2200,19.92,36.0,D,D3,0.0,OWN,30000.0,Source Verified,debt_consolidation,FL,2.72,2018-12-01,2018,2018-12,Current,0
+,7000,13.56,36.0,C,C1,1.0,RENT,30000.0,Source Verified,debt_consolidation,TX,12.6,2018-12-01,2018,2018-12,Current,0
+,10000,10.33,36.0,B,B1,0.0,MORTGAGE,65000.0,Not Verified,debt_consolidation,NC,9.89,2018-12-01,2018,2018-12,Current,0
+,14000,14.47,36.0,C,C2,10.0,MORTGAGE,36000.0,Not Verified,credit_card,NE,28.1,2018-12-01,2018,2018-12,Current,0
+,10000,13.56,36.0,C,C1,4.0,MORTGAGE,125000.0,Not Verified,home_improvement,NY,19.75,2018-12-01,2018,2018-12,Current,0
+,8000,8.81,36.0,A,A5,3.0,MORTGAGE,55000.0,Not Verified,debt_consolidation,VT,13.05,2018-12-01,2018,2018-12,Current,0
+,8000,8.19,36.0,A,A4,10.0,MORTGAGE,100000.0,Source Verified,debt_consolidation,MD,10.86,2018-12-01,2018,2018-12,Current,0
+,30000,7.56,36.0,A,A3,7.0,MORTGAGE,155000.0,Not Verified,credit_card,IL,4.33,2018-12-01,2018,2018-12,Current,0
+,15000,16.14,36.0,C,C4,0.0,OWN,100000.0,Not Verified,major_purchase,NM,8.58,2018-12-01,2018,2018-12,Current,0
+,16000,14.47,60.0,C,C2,9.0,MORTGAGE,78000.0,Source Verified,credit_card,MD,25.14,2018-12-01,2018,2018-12,Current,0
+,32500,8.19,60.0,A,A4,10.0,MORTGAGE,94000.0,Not Verified,debt_consolidation,IN,11.95,2018-12-01,2018,2018-12,Current,0
+,8400,16.14,36.0,C,C4,1.0,MORTGAGE,50000.0,Source Verified,credit_card,MD,20.09,2018-12-01,2018,2018-12,Current,0
+,20000,18.94,60.0,D,D2,2.0,MORTGAGE,68000.0,Not Verified,debt_consolidation,UT,35.23,2018-12-01,2018,2018-12,Current,0
+,23000,14.47,60.0,C,C2,3.0,RENT,33000.0,Verified,credit_card,IL,44.33,2018-12-01,2018,2018-12,Current,0
+,4800,10.33,36.0,B,B1,5.0,OWN,80000.0,Not Verified,debt_consolidation,NC,17.37,2018-12-01,2018,2018-12,Current,0
+,40000,8.19,60.0,A,A4,10.0,MORTGAGE,99000.0,Source Verified,credit_card,OH,21.75,2018-12-01,2018,2018-12,Current,0
+,3600,10.33,36.0,B,B1,0.0,RENT,26000.0,Source Verified,debt_consolidation,OH,14.33,2018-12-01,2018,2018-12,Current,0
+,36950,11.8,60.0,B,B4,1.0,RENT,284000.0,Not Verified,debt_consolidation,CA,3.95,2018-12-01,2018,2018-12,Current,0
+,15000,7.02,36.0,A,A2,9.0,MORTGAGE,80000.0,Not Verified,credit_card,GA,6.41,2018-12-01,2018,2018-12,Current,0
+,16800,11.8,60.0,B,B4,7.0,MORTGAGE,56000.0,Not Verified,debt_consolidation,NJ,11.36,2018-12-01,2018,2018-12,Current,0
+,13000,7.02,36.0,A,A2,8.0,OWN,35000.0,Source Verified,debt_consolidation,NV,36.08,2018-12-01,2018,2018-12,Current,0
+,31200,11.8,60.0,B,B4,10.0,MORTGAGE,105000.0,Verified,credit_card,SC,27.47,2018-12-01,2018,2018-12,Current,0
+,25000,16.91,60.0,C,C5,10.0,MORTGAGE,130000.0,Source Verified,home_improvement,VA,21.05,2018-12-01,2018,2018-12,Current,0
+,30800,11.31,36.0,B,B3,10.0,MORTGAGE,105000.0,Source Verified,credit_card,IL,25.65,2018-12-01,2018,2018-12,Current,0
+,16000,6.46,36.0,A,A1,2.0,RENT,80000.0,Source Verified,credit_card,TX,7.31,2018-12-01,2018,2018-12,Current,0
+,3600,14.47,36.0,C,C2,2.0,MORTGAGE,52000.0,Not Verified,debt_consolidation,WA,16.43,2018-12-01,2018,2018-12,Current,0
+,30000,7.02,36.0,A,A2,4.0,MORTGAGE,92000.0,Not Verified,major_purchase,MO,12.91,2018-12-01,2018,2018-12,Current,0
+,1000,23.4,36.0,E,E1,4.0,MORTGAGE,39000.0,Not Verified,vacation,CA,10.18,2018-12-01,2018,2018-12,Current,0
+,16000,6.46,36.0,A,A1,10.0,MORTGAGE,110000.0,Source Verified,home_improvement,NY,4.21,2018-12-01,2018,2018-12,Current,0
+,16800,11.8,36.0,B,B4,8.0,MORTGAGE,47800.0,Not Verified,credit_card,NE,29.95,2018-12-01,2018,2018-12,Current,0
+,6500,10.33,36.0,B,B1,0.0,MORTGAGE,42000.0,Not Verified,debt_consolidation,IN,27.69,2018-12-01,2018,2018-12,Current,0
+,6500,6.46,36.0,A,A1,3.0,MORTGAGE,40000.0,Not Verified,credit_card,OH,13.92,2018-12-01,2018,2018-12,Current,0
+,12000,12.98,60.0,B,B5,0.0,RENT,55000.0,Source Verified,debt_consolidation,CA,21.73,2018-12-01,2018,2018-12,Current,0
+,11500,8.19,36.0,A,A4,10.0,MORTGAGE,173370.0,Not Verified,credit_card,MN,25.29,2018-12-01,2018,2018-12,Current,0
+,40000,8.19,36.0,A,A4,9.0,MORTGAGE,55000.0,Not Verified,debt_consolidation,CA,16.08,2018-12-01,2018,2018-12,Current,0
+,31000,16.91,60.0,C,C5,1.0,RENT,52000.0,Verified,debt_consolidation,AZ,30.39,2018-12-01,2018,2018-12,Current,0
+,20000,20.89,60.0,D,D4,10.0,RENT,38000.0,Source Verified,debt_consolidation,MS,26.03,2018-12-01,2018,2018-12,Current,0
+,21000,15.02,60.0,C,C3,4.0,MORTGAGE,51000.0,Not Verified,debt_consolidation,NH,22.0,2018-12-01,2018,2018-12,Current,0
+,10000,23.4,36.0,E,E1,2.0,MORTGAGE,90000.0,Not Verified,debt_consolidation,MO,15.2,2018-12-01,2018,2018-12,Current,0
+,8400,6.46,36.0,A,A1,10.0,MORTGAGE,130000.0,Not Verified,credit_card,WV,25.86,2018-12-01,2018,2018-12,Current,0
+,30000,10.33,60.0,B,B1,1.0,MORTGAGE,75000.0,Source Verified,debt_consolidation,NC,7.89,2018-12-01,2018,2018-12,Current,0
+,1600,8.81,36.0,A,A5,7.0,RENT,35000.0,Not Verified,credit_card,KS,4.7,2018-12-01,2018,2018-12,Current,0
+,13000,22.35,60.0,D,D5,2.0,RENT,32000.0,Not Verified,debt_consolidation,VA,19.5,2018-12-01,2018,2018-12,Current,0
+,25000,11.8,60.0,B,B4,1.0,OWN,50000.0,Not Verified,debt_consolidation,NY,25.71,2018-12-01,2018,2018-12,Current,0
+,12000,24.37,60.0,E,E2,2.0,MORTGAGE,150000.0,Source Verified,credit_card,CT,11.58,2018-12-01,2018,2018-12,Current,0
+,2000,16.91,36.0,C,C5,10.0,MORTGAGE,64600.0,Not Verified,debt_consolidation,PA,24.82,2018-12-01,2018,2018-12,Current,0
+,24000,10.72,60.0,B,B2,10.0,RENT,83000.0,Source Verified,credit_card,PA,17.51,2018-12-01,2018,2018-12,Current,0
+,13000,8.81,36.0,A,A5,5.0,MORTGAGE,120000.0,Source Verified,debt_consolidation,NV,7.3,2018-12-01,2018,2018-12,Current,0
+,15000,8.81,36.0,A,A5,4.0,OWN,25000.0,Verified,credit_card,IN,1.2,2018-12-01,2018,2018-12,Current,0
+,18000,11.8,60.0,B,B4,10.0,RENT,68000.0,Verified,debt_consolidation,CA,13.87,2018-12-01,2018,2018-12,Current,0
+,23000,15.02,60.0,C,C3,10.0,RENT,78000.0,Not Verified,debt_consolidation,CA,16.54,2018-12-01,2018,2018-12,Current,0
+,12000,19.92,36.0,D,D3,0.0,RENT,42000.0,Not Verified,debt_consolidation,CA,27.49,2018-12-01,2018,2018-12,Current,0
+,15000,13.56,60.0,C,C1,0.0,OWN,126000.0,Source Verified,credit_card,FL,15.64,2018-12-01,2018,2018-12,Current,0
+,30000,18.94,60.0,D,D2,10.0,MORTGAGE,50000.0,Verified,debt_consolidation,FL,19.52,2018-12-01,2018,2018-12,Current,0
+,20000,8.19,60.0,A,A4,10.0,MORTGAGE,88000.0,Not Verified,credit_card,IL,7.39,2018-12-01,2018,2018-12,Current,0
+,14425,11.31,36.0,B,B3,7.0,RENT,125000.0,Source Verified,other,FL,15.57,2018-12-01,2018,2018-12,Current,0
+,36425,11.8,60.0,B,B4,10.0,MORTGAGE,53000.0,Not Verified,debt_consolidation,MN,23.89,2018-12-01,2018,2018-12,Current,0
+,5000,13.56,36.0,C,C1,2.0,RENT,35140.0,Source Verified,debt_consolidation,NY,7.89,2018-12-01,2018,2018-12,Current,0
+,6000,8.81,36.0,A,A5,5.0,RENT,56500.0,Not Verified,credit_card,NY,31.99,2018-12-01,2018,2018-12,Current,0
+,20000,12.98,36.0,B,B5,8.0,MORTGAGE,90000.0,Source Verified,home_improvement,AL,15.8,2018-12-01,2018,2018-12,Current,0
+,12500,11.8,60.0,B,B4,10.0,MORTGAGE,75000.0,Not Verified,debt_consolidation,NY,22.03,2018-12-01,2018,2018-12,Current,0
+,18000,11.8,60.0,B,B4,3.0,MORTGAGE,130000.0,Not Verified,credit_card,TX,19.9,2018-12-01,2018,2018-12,Current,0
+,3000,8.19,36.0,A,A4,0.0,RENT,79992.0,Not Verified,debt_consolidation,NY,1.49,2018-12-01,2018,2018-12,Current,0
+,3000,8.81,36.0,A,A5,10.0,MORTGAGE,36000.0,Verified,home_improvement,SC,21.7,2018-12-01,2018,2018-12,Current,0
+,18000,7.02,36.0,A,A2,0.0,MORTGAGE,115000.0,Not Verified,home_improvement,NC,16.18,2018-12-01,2018,2018-12,Current,0
+,10000,10.72,36.0,B,B2,5.0,MORTGAGE,140000.0,Not Verified,other,OR,13.63,2018-12-01,2018,2018-12,Current,0
+,4000,17.97,36.0,D,D1,5.0,MORTGAGE,60000.0,Source Verified,house,TX,19.1,2018-12-01,2018,2018-12,Fully Paid,0
+,20000,15.02,60.0,C,C3,4.0,MORTGAGE,65000.0,Source Verified,debt_consolidation,NJ,30.47,2018-12-01,2018,2018-12,Current,0
+,21600,7.56,36.0,A,A3,10.0,RENT,75000.0,Source Verified,debt_consolidation,TX,11.36,2018-12-01,2018,2018-12,Current,0
+,5000,8.81,36.0,A,A5,10.0,MORTGAGE,58000.0,Not Verified,debt_consolidation,FL,11.86,2018-12-01,2018,2018-12,Current,0
+,10000,11.31,36.0,B,B3,10.0,RENT,34000.0,Not Verified,credit_card,NV,16.9,2018-12-01,2018,2018-12,Current,0
+,15600,11.8,60.0,B,B4,4.0,MORTGAGE,90000.0,Source Verified,home_improvement,CO,15.67,2018-12-01,2018,2018-12,Current,0
+,19200,18.94,60.0,D,D2,10.0,MORTGAGE,80000.0,Not Verified,credit_card,CA,24.65,2018-12-01,2018,2018-12,Current,0
+,9375,13.56,36.0,C,C1,10.0,MORTGAGE,48500.0,Source Verified,credit_card,AL,36.72,2018-12-01,2018,2018-12,Current,0
+,10000,12.98,60.0,B,B5,2.0,RENT,62000.0,Not Verified,credit_card,CA,20.93,2018-12-01,2018,2018-12,Current,0
+,4000,6.46,36.0,A,A1,10.0,MORTGAGE,119000.0,Source Verified,debt_consolidation,CO,13.09,2018-12-01,2018,2018-12,Current,0
+,2700,8.19,36.0,A,A4,4.0,OWN,24000.0,Not Verified,credit_card,MI,24.95,2018-12-01,2018,2018-12,Fully Paid,0
+,12000,11.8,36.0,B,B4,,RENT,55000.0,Not Verified,debt_consolidation,NY,28.8,2018-12-01,2018,2018-12,Current,0
+,16000,15.02,36.0,C,C3,0.0,MORTGAGE,24960.0,Verified,medical,CA,85.63,2018-12-01,2018,2018-12,Current,0
+,35000,16.14,36.0,C,C4,5.0,RENT,125500.0,Source Verified,debt_consolidation,NY,3.76,2018-12-01,2018,2018-12,Current,0
+,3000,8.81,36.0,A,A5,0.0,RENT,85000.0,Not Verified,credit_card,WA,9.61,2018-12-01,2018,2018-12,Current,0
+,10000,19.92,60.0,D,D3,2.0,RENT,54000.0,Not Verified,debt_consolidation,PA,7.34,2018-12-01,2018,2018-12,Current,0
+,15450,11.8,36.0,B,B4,3.0,MORTGAGE,133600.0,Not Verified,credit_card,MD,26.04,2018-12-01,2018,2018-12,Current,0
+,40000,8.19,36.0,A,A4,2.0,MORTGAGE,100000.0,Not Verified,major_purchase,AZ,16.73,2018-12-01,2018,2018-12,Current,0
+,7500,7.02,36.0,A,A2,7.0,MORTGAGE,57000.0,Not Verified,debt_consolidation,UT,14.95,2018-12-01,2018,2018-12,Current,0
+,20500,10.72,36.0,B,B2,3.0,RENT,77000.0,Source Verified,credit_card,OR,10.75,2018-12-01,2018,2018-12,Current,0
+,4500,19.92,36.0,D,D3,0.0,MORTGAGE,115800.0,Not Verified,home_improvement,MD,9.09,2018-12-01,2018,2018-12,Current,0
+,19000,11.8,36.0,B,B4,9.0,MORTGAGE,77405.0,Source Verified,debt_consolidation,TX,19.66,2018-12-01,2018,2018-12,Current,0
+,34800,15.02,60.0,C,C3,0.0,RENT,106000.0,Not Verified,debt_consolidation,MD,26.1,2018-12-01,2018,2018-12,Current,0
+,25000,10.33,60.0,B,B1,10.0,MORTGAGE,55758.0,Not Verified,debt_consolidation,NV,21.52,2018-12-01,2018,2018-12,Current,0
+,11000,11.8,60.0,B,B4,5.0,MORTGAGE,188000.0,Not Verified,debt_consolidation,CO,12.31,2018-12-01,2018,2018-12,Current,0
+,20075,19.92,36.0,D,D3,8.0,OWN,50000.0,Not Verified,debt_consolidation,TX,26.64,2018-12-01,2018,2018-12,Current,0
+,28000,14.47,36.0,C,C2,4.0,MORTGAGE,130000.0,Not Verified,debt_consolidation,MD,10.25,2018-12-01,2018,2018-12,Current,0
+,15000,17.97,60.0,D,D1,7.0,RENT,65000.0,Source Verified,credit_card,MA,18.49,2018-12-01,2018,2018-12,Current,0
+,12000,8.81,36.0,A,A5,,MORTGAGE,120000.0,Not Verified,debt_consolidation,TX,18.16,2018-12-01,2018,2018-12,Current,0
+,4000,18.94,36.0,D,D2,1.0,RENT,73000.0,Not Verified,credit_card,NJ,4.78,2018-12-01,2018,2018-12,Current,0
+,5000,7.02,36.0,A,A2,4.0,MORTGAGE,126000.0,Not Verified,home_improvement,IN,10.51,2018-12-01,2018,2018-12,Current,0
+,6025,19.92,36.0,D,D3,0.0,RENT,21600.0,Source Verified,credit_card,MA,7.53,2018-12-01,2018,2018-12,Current,0
+,24000,12.98,60.0,B,B5,10.0,MORTGAGE,140000.0,Source Verified,debt_consolidation,OH,27.8,2018-12-01,2018,2018-12,Current,0
+,1000,23.4,36.0,E,E1,3.0,RENT,60000.0,Source Verified,debt_consolidation,OH,20.78,2018-12-01,2018,2018-12,Fully Paid,0
+,5000,14.47,36.0,C,C2,5.0,MORTGAGE,30000.0,Source Verified,credit_card,NY,24.11,2018-12-01,2018,2018-12,Current,0
+,19375,13.56,36.0,C,C1,5.0,MORTGAGE,75000.0,Not Verified,major_purchase,FL,19.66,2018-12-01,2018,2018-12,Current,0
+,15000,10.72,36.0,B,B2,2.0,MORTGAGE,62000.0,Not Verified,credit_card,NC,12.81,2018-12-01,2018,2018-12,Current,0
+,14400,16.14,36.0,C,C4,0.0,RENT,70000.0,Source Verified,debt_consolidation,IL,21.04,2018-12-01,2018,2018-12,Current,0
+,22500,15.02,60.0,C,C3,1.0,MORTGAGE,85000.0,Source Verified,debt_consolidation,CA,21.4,2018-12-01,2018,2018-12,Current,0
+,15000,8.19,60.0,A,A4,2.0,RENT,63000.0,Not Verified,debt_consolidation,NY,21.86,2018-12-01,2018,2018-12,Current,0
+,20000,8.19,36.0,A,A4,7.0,RENT,55000.0,Source Verified,debt_consolidation,PA,30.07,2018-12-01,2018,2018-12,Current,0
+,15000,8.19,36.0,A,A4,0.0,OWN,175000.0,Source Verified,debt_consolidation,CA,16.08,2018-12-01,2018,2018-12,Current,0
+,10000,22.35,60.0,D,D5,6.0,RENT,51000.0,Not Verified,debt_consolidation,VA,29.76,2018-12-01,2018,2018-12,Current,0
+,15000,7.56,36.0,A,A3,10.0,MORTGAGE,200000.0,Not Verified,house,ID,2.62,2018-12-01,2018,2018-12,Fully Paid,0
+,9600,8.81,36.0,A,A5,10.0,MORTGAGE,95000.0,Not Verified,home_improvement,NY,15.23,2018-12-01,2018,2018-12,Current,0
+,10000,10.72,36.0,B,B2,1.0,MORTGAGE,88340.0,Source Verified,credit_card,CO,11.29,2018-12-01,2018,2018-12,Current,0
+,12000,12.98,36.0,B,B5,0.0,RENT,50000.0,Not Verified,debt_consolidation,OR,22.85,2018-12-01,2018,2018-12,Current,0
+,20000,16.91,60.0,C,C5,4.0,RENT,92000.0,Not Verified,debt_consolidation,LA,25.65,2018-12-01,2018,2018-12,Current,0
+,24000,8.19,36.0,A,A4,6.0,MORTGAGE,338000.0,Source Verified,debt_consolidation,TX,10.41,2018-12-01,2018,2018-12,Current,0
+,9000,10.72,36.0,B,B2,,RENT,25400.0,Not Verified,debt_consolidation,KS,28.17,2018-12-01,2018,2018-12,Current,0
+,10000,8.19,36.0,A,A4,10.0,MORTGAGE,60000.0,Source Verified,debt_consolidation,WA,16.82,2018-12-01,2018,2018-12,Current,0
+,12000,6.46,36.0,A,A1,6.0,RENT,38000.0,Not Verified,debt_consolidation,NJ,31.11,2018-12-01,2018,2018-12,Current,0
+,10000,11.8,60.0,B,B4,9.0,RENT,40000.0,Not Verified,credit_card,PA,26.16,2018-12-01,2018,2018-12,Current,0
+,28000,8.81,60.0,A,A5,10.0,MORTGAGE,103939.0,Verified,debt_consolidation,WI,17.88,2018-12-01,2018,2018-12,Current,0
+,7000,7.02,36.0,A,A2,7.0,MORTGAGE,38979.0,Source Verified,debt_consolidation,MI,22.81,2018-12-01,2018,2018-12,Current,0
+,40000,10.72,60.0,B,B2,6.0,MORTGAGE,65000.0,Not Verified,small_business,MO,14.4,2018-12-01,2018,2018-12,Current,0
+,16000,7.02,36.0,A,A2,,OWN,75000.0,Not Verified,debt_consolidation,NY,31.55,2018-12-01,2018,2018-12,Current,0
+,12000,16.91,36.0,C,C5,4.0,RENT,90000.0,Source Verified,debt_consolidation,CA,10.79,2018-12-01,2018,2018-12,Current,0
+,10000,7.56,36.0,A,A3,4.0,MORTGAGE,77600.0,Not Verified,credit_card,NV,20.49,2018-12-01,2018,2018-12,Current,0
+,13000,10.72,60.0,B,B2,,MORTGAGE,0.0,Not Verified,major_purchase,AZ,,2018-12-01,2018,2018-12,Current,0
+,40000,8.19,36.0,A,A4,0.0,MORTGAGE,65000.0,Source Verified,debt_consolidation,OH,23.52,2018-12-01,2018,2018-12,Current,0
+,15000,13.56,60.0,C,C1,2.0,MORTGAGE,70000.0,Verified,debt_consolidation,OH,6.14,2018-12-01,2018,2018-12,Current,0
+,25000,15.02,60.0,C,C3,10.0,MORTGAGE,85000.0,Source Verified,debt_consolidation,WA,14.32,2018-12-01,2018,2018-12,Current,0
+,11000,8.19,60.0,A,A4,5.0,RENT,60000.0,Not Verified,debt_consolidation,LA,15.96,2018-12-01,2018,2018-12,Current,0
+,12000,15.02,36.0,C,C3,0.0,RENT,65000.0,Source Verified,debt_consolidation,NC,33.93,2018-12-01,2018,2018-12,Current,0
+,15000,6.46,36.0,A,A1,8.0,MORTGAGE,148000.0,Verified,credit_card,UT,14.92,2018-12-01,2018,2018-12,Current,0
+,38000,12.98,36.0,B,B5,6.0,MORTGAGE,36000.0,Not Verified,debt_consolidation,NH,51.2,2018-12-01,2018,2018-12,Current,0
+,10000,7.56,36.0,A,A3,2.0,RENT,25000.0,Source Verified,debt_consolidation,KY,7.92,2018-12-01,2018,2018-12,Current,0
+,7000,11.31,36.0,B,B3,4.0,MORTGAGE,26000.0,Not Verified,debt_consolidation,TX,19.1,2018-12-01,2018,2018-12,Current,0
+,25000,17.97,60.0,D,D1,2.0,MORTGAGE,55000.0,Verified,debt_consolidation,OR,46.59,2018-12-01,2018,2018-12,Current,0
+,10500,7.56,36.0,A,A3,9.0,MORTGAGE,86000.0,Not Verified,credit_card,VA,10.77,2018-12-01,2018,2018-12,Current,0
+,20000,16.14,60.0,C,C4,4.0,RENT,30000.0,Source Verified,debt_consolidation,WI,41.84,2018-12-01,2018,2018-12,Current,0
+,6600,11.31,36.0,B,B3,,RENT,23000.0,Verified,debt_consolidation,NJ,18.95,2018-12-01,2018,2018-12,Current,0
+,40000,10.33,60.0,B,B1,10.0,MORTGAGE,115000.0,Verified,home_improvement,CA,9.35,2018-12-01,2018,2018-12,Current,0
+,16000,8.81,36.0,A,A5,9.0,RENT,106000.0,Not Verified,credit_card,RI,16.73,2018-12-01,2018,2018-12,Current,0
+,10000,23.4,36.0,E,E1,10.0,MORTGAGE,130000.0,Verified,debt_consolidation,KY,14.5,2018-12-01,2018,2018-12,Current,0
+,8000,7.56,36.0,A,A3,10.0,MORTGAGE,250000.0,Not Verified,other,CA,20.1,2018-12-01,2018,2018-12,Fully Paid,0
+,40000,10.72,36.0,B,B2,10.0,MORTGAGE,150000.0,Source Verified,debt_consolidation,MD,22.02,2018-12-01,2018,2018-12,Current,0
+,40000,15.02,60.0,C,C3,,MORTGAGE,31200.0,Verified,home_improvement,TX,44.12,2018-12-01,2018,2018-12,Current,0
+,3000,13.56,36.0,C,C1,6.0,MORTGAGE,35000.0,Source Verified,debt_consolidation,NC,9.4,2018-12-01,2018,2018-12,Current,0
+,40000,6.46,36.0,A,A1,4.0,MORTGAGE,135000.0,Source Verified,credit_card,TX,29.55,2018-12-01,2018,2018-12,Current,0
+,8000,18.94,36.0,D,D2,8.0,MORTGAGE,98000.0,Not Verified,home_improvement,TX,32.04,2018-12-01,2018,2018-12,Current,0
+,13000,12.98,60.0,B,B5,10.0,MORTGAGE,33000.0,Not Verified,debt_consolidation,NY,22.76,2018-12-01,2018,2018-12,Current,0
+,10000,10.72,36.0,B,B2,9.0,RENT,55000.0,Not Verified,credit_card,NV,26.86,2018-12-01,2018,2018-12,Current,0
+,40000,8.19,60.0,A,A4,1.0,MORTGAGE,384000.0,Source Verified,debt_consolidation,IL,7.99,2018-12-01,2018,2018-12,Current,0
+,19200,10.33,60.0,B,B1,0.0,RENT,80000.0,Source Verified,credit_card,CO,6.92,2018-12-01,2018,2018-12,Current,0
+,4000,16.14,36.0,C,C4,10.0,RENT,40000.0,Not Verified,small_business,OK,5.37,2018-12-01,2018,2018-12,Current,0
+,16000,8.19,36.0,A,A4,5.0,MORTGAGE,42900.0,Source Verified,debt_consolidation,TX,26.4,2018-12-01,2018,2018-12,Current,0
+,16000,7.02,36.0,A,A2,10.0,MORTGAGE,65000.0,Not Verified,debt_consolidation,VT,24.0,2018-12-01,2018,2018-12,Current,0
+,8250,10.33,36.0,B,B1,2.0,RENT,40000.0,Not Verified,debt_consolidation,OH,24.6,2018-12-01,2018,2018-12,Current,0
+,40000,7.02,36.0,A,A2,0.0,OWN,175000.0,Not Verified,other,KY,4.05,2018-12-01,2018,2018-12,Current,0
+,3000,24.37,36.0,E,E2,10.0,MORTGAGE,80000.0,Not Verified,small_business,MO,17.58,2018-12-01,2018,2018-12,Current,0
+,3125,6.46,36.0,A,A1,8.0,MORTGAGE,50000.0,Not Verified,credit_card,TX,34.74,2018-12-01,2018,2018-12,Current,0
+,21000,8.81,60.0,A,A5,1.0,MORTGAGE,40000.0,Source Verified,debt_consolidation,FL,17.1,2018-12-01,2018,2018-12,Current,0
+,12000,13.56,60.0,C,C1,4.0,RENT,55000.0,Not Verified,credit_card,CA,11.67,2018-12-01,2018,2018-12,Current,0
+,10000,8.19,36.0,A,A4,2.0,MORTGAGE,55400.0,Not Verified,credit_card,TX,8.41,2018-12-01,2018,2018-12,Current,0
+,16000,10.33,36.0,B,B1,3.0,RENT,71000.0,Verified,debt_consolidation,PA,16.58,2018-12-01,2018,2018-12,Current,0
+,25000,19.92,36.0,D,D3,1.0,OWN,120000.0,Not Verified,debt_consolidation,MA,14.62,2018-12-01,2018,2018-12,Current,0
+,20000,10.72,60.0,B,B2,10.0,MORTGAGE,60000.0,Not Verified,credit_card,FL,25.54,2018-12-01,2018,2018-12,Current,0
+,11025,10.33,60.0,B,B1,1.0,OWN,66000.0,Not Verified,credit_card,IL,23.44,2018-12-01,2018,2018-12,Current,0
+,18400,13.56,36.0,C,C1,6.0,MORTGAGE,160000.0,Not Verified,credit_card,FL,15.87,2018-12-01,2018,2018-12,Current,0
+,2200,26.31,36.0,E,E4,1.0,OWN,13520.0,Source Verified,debt_consolidation,AZ,5.95,2018-12-01,2018,2018-12,Current,0
+,12000,8.19,36.0,A,A4,4.0,MORTGAGE,60000.0,Source Verified,debt_consolidation,TX,11.86,2018-12-01,2018,2018-12,Current,0
+,40000,11.31,36.0,B,B3,5.0,MORTGAGE,92000.0,Verified,debt_consolidation,NY,23.64,2018-12-01,2018,2018-12,Current,0
+,22950,12.98,36.0,B,B5,6.0,RENT,100000.0,Source Verified,debt_consolidation,OH,20.68,2018-12-01,2018,2018-12,Current,0
+,16000,13.56,36.0,C,C1,0.0,OWN,72000.0,Source Verified,home_improvement,NY,27.71,2018-12-01,2018,2018-12,Current,0
+,40000,8.81,36.0,A,A5,1.0,MORTGAGE,127000.0,Not Verified,debt_consolidation,VA,14.55,2018-12-01,2018,2018-12,Current,0
+,15000,11.31,36.0,B,B3,10.0,MORTGAGE,114164.0,Source Verified,home_improvement,MS,19.87,2018-12-01,2018,2018-12,Current,0
+,15000,12.98,60.0,B,B5,0.0,MORTGAGE,50000.0,Not Verified,debt_consolidation,NE,27.15,2018-12-01,2018,2018-12,Current,0
+,10000,11.8,36.0,B,B4,8.0,RENT,64000.0,Not Verified,debt_consolidation,GA,4.14,2018-12-01,2018,2018-12,Current,0
+,20000,15.02,60.0,C,C3,5.0,RENT,50000.0,Not Verified,debt_consolidation,RI,22.56,2018-12-01,2018,2018-12,Current,0
+,4000,7.02,36.0,A,A2,8.0,OWN,40000.0,Not Verified,home_improvement,MD,12.63,2018-12-01,2018,2018-12,Current,0
+,10000,16.91,60.0,C,C5,7.0,RENT,26000.0,Not Verified,major_purchase,TX,20.78,2018-12-01,2018,2018-12,Current,0
+,10000,14.47,36.0,C,C2,2.0,RENT,55000.0,Not Verified,credit_card,RI,22.1,2018-12-01,2018,2018-12,Current,0
+,16000,10.33,60.0,B,B1,1.0,MORTGAGE,90000.0,Not Verified,debt_consolidation,CT,13.36,2018-12-01,2018,2018-12,Current,0
+,2000,18.94,36.0,D,D2,2.0,RENT,49000.0,Verified,other,NC,11.46,2018-12-01,2018,2018-12,Current,0
+,35000,18.94,36.0,D,D2,10.0,MORTGAGE,102501.0,Not Verified,debt_consolidation,CA,28.32,2018-12-01,2018,2018-12,Current,0
+,20000,6.46,36.0,A,A1,0.0,RENT,130000.0,Not Verified,major_purchase,NH,14.19,2018-12-01,2018,2018-12,Current,0
+,28000,22.35,60.0,D,D5,0.0,RENT,35360.0,Verified,debt_consolidation,NM,46.47,2018-12-01,2018,2018-12,Current,0
+,24000,8.81,36.0,A,A5,8.0,MORTGAGE,165000.0,Not Verified,debt_consolidation,OK,5.1,2018-12-01,2018,2018-12,Current,0
+,15000,8.19,36.0,A,A4,,RENT,60000.0,Source Verified,credit_card,CA,8.68,2018-12-01,2018,2018-12,Current,0
+,10000,11.8,36.0,B,B4,6.0,MORTGAGE,105000.0,Not Verified,debt_consolidation,TX,11.67,2018-12-01,2018,2018-12,Current,0
+,20000,8.19,36.0,A,A4,0.0,MORTGAGE,57000.0,Not Verified,debt_consolidation,DE,21.37,2018-12-01,2018,2018-12,Current,0
+,9000,10.72,36.0,B,B2,2.0,RENT,88000.0,Not Verified,debt_consolidation,OH,12.34,2018-12-01,2018,2018-12,Current,0
+,11000,10.72,36.0,B,B2,,RENT,39500.0,Not Verified,debt_consolidation,IN,38.86,2018-12-01,2018,2018-12,Current,0
+,15000,8.19,36.0,A,A4,3.0,RENT,72000.0,Not Verified,credit_card,OH,10.17,2018-12-01,2018,2018-12,Current,0
+,21000,12.98,60.0,B,B5,10.0,MORTGAGE,125000.0,Not Verified,debt_consolidation,CA,11.39,2018-12-01,2018,2018-12,Current,0
+,20000,6.46,36.0,A,A1,2.0,MORTGAGE,60000.0,Verified,credit_card,CA,28.52,2018-12-01,2018,2018-12,Current,0
+,40000,11.8,36.0,B,B4,10.0,RENT,84000.0,Verified,debt_consolidation,CA,8.41,2018-12-01,2018,2018-12,Current,0
+,35000,8.81,36.0,A,A5,1.0,MORTGAGE,150000.0,Source Verified,credit_card,CO,15.24,2018-12-01,2018,2018-12,Current,0
+,19000,11.8,60.0,B,B4,10.0,MORTGAGE,102000.0,Not Verified,debt_consolidation,NV,19.81,2018-12-01,2018,2018-12,Current,0
+,6000,17.97,36.0,D,D1,5.0,MORTGAGE,90000.0,Verified,car,MO,66.87,2018-12-01,2018,2018-12,Current,0
+,7150,14.47,36.0,C,C2,1.0,MORTGAGE,40000.0,Source Verified,debt_consolidation,TX,13.23,2018-12-01,2018,2018-12,Current,0
+,27200,19.92,60.0,D,D3,10.0,RENT,54254.0,Not Verified,debt_consolidation,GA,22.96,2018-12-01,2018,2018-12,Current,0
+,27500,16.14,60.0,C,C4,4.0,MORTGAGE,400000.0,Source Verified,small_business,TX,4.33,2018-12-01,2018,2018-12,Current,0
+,7800,14.47,36.0,C,C2,10.0,MORTGAGE,93000.0,Source Verified,debt_consolidation,TX,12.99,2018-12-01,2018,2018-12,Current,0
+,15000,7.02,36.0,A,A2,10.0,RENT,125000.0,Not Verified,credit_card,CA,9.73,2018-12-01,2018,2018-12,Current,0
+,23000,6.46,36.0,A,A1,10.0,MORTGAGE,103000.0,Source Verified,debt_consolidation,MO,11.67,2018-12-01,2018,2018-12,Current,0
+,8000,8.81,36.0,A,A5,0.0,RENT,120000.0,Not Verified,debt_consolidation,AZ,13.42,2018-12-01,2018,2018-12,Current,0
+,20000,8.81,36.0,A,A5,0.0,OWN,45000.0,Not Verified,debt_consolidation,NY,19.15,2018-12-01,2018,2018-12,Current,0
+,12000,16.14,36.0,C,C4,0.0,MORTGAGE,84000.0,Source Verified,debt_consolidation,OH,21.6,2018-12-01,2018,2018-12,Current,0
+,5000,7.56,36.0,A,A3,5.0,MORTGAGE,98000.0,Not Verified,credit_card,TX,14.78,2018-12-01,2018,2018-12,Fully Paid,0
+,8000,11.8,36.0,B,B4,3.0,MORTGAGE,51320.0,Not Verified,debt_consolidation,VA,24.84,2018-12-01,2018,2018-12,Current,0
+,25000,27.27,36.0,E,E5,10.0,MORTGAGE,704000.0,Verified,house,NJ,14.3,2018-12-01,2018,2018-12,Current,0
+,25000,11.8,60.0,B,B4,5.0,RENT,90000.0,Not Verified,debt_consolidation,CA,23.84,2018-12-01,2018,2018-12,Current,0
+,14225,23.4,36.0,E,E1,2.0,MORTGAGE,142500.0,Source Verified,debt_consolidation,FL,22.01,2018-12-01,2018,2018-12,Current,0
+,22000,12.98,60.0,B,B5,1.0,RENT,55000.0,Source Verified,debt_consolidation,FL,31.53,2018-12-01,2018,2018-12,Current,0
+,15400,18.94,60.0,D,D2,1.0,RENT,56810.0,Not Verified,debt_consolidation,WA,23.95,2018-12-01,2018,2018-12,Current,0
+,2500,23.4,36.0,E,E1,5.0,OWN,33000.0,Not Verified,debt_consolidation,PA,43.64,2018-12-01,2018,2018-12,Current,0
+,10000,8.81,36.0,A,A5,2.0,RENT,55000.0,Not Verified,debt_consolidation,NJ,8.99,2018-12-01,2018,2018-12,Current,0
+,20000,10.72,36.0,B,B2,3.0,RENT,70000.0,Not Verified,debt_consolidation,FL,10.27,2018-12-01,2018,2018-12,Current,0
+,4800,10.72,36.0,B,B2,10.0,RENT,80000.0,Not Verified,credit_card,TX,26.55,2018-12-01,2018,2018-12,Current,0
+,7000,11.8,36.0,B,B4,10.0,MORTGAGE,90000.0,Source Verified,debt_consolidation,CA,17.87,2018-12-01,2018,2018-12,Current,0
+,22400,11.8,60.0,B,B4,6.0,MORTGAGE,145000.0,Source Verified,debt_consolidation,CA,9.61,2018-12-01,2018,2018-12,Current,0
+,6000,10.33,36.0,B,B1,8.0,RENT,28390.0,Not Verified,credit_card,CA,35.48,2018-12-01,2018,2018-12,Current,0
+,4800,15.02,36.0,C,C3,2.0,MORTGAGE,76000.0,Source Verified,home_improvement,FL,26.58,2018-12-01,2018,2018-12,Current,0
+,20000,6.46,36.0,A,A1,,RENT,54996.0,Not Verified,debt_consolidation,FL,29.41,2018-12-01,2018,2018-12,Current,0
+,16000,7.02,36.0,A,A2,6.0,MORTGAGE,83000.0,Not Verified,credit_card,PA,21.44,2018-12-01,2018,2018-12,Current,0
+,30000,11.8,60.0,B,B4,10.0,MORTGAGE,98000.0,Source Verified,debt_consolidation,MD,42.0,2018-12-01,2018,2018-12,Current,0
+,18000,7.56,36.0,A,A3,0.0,MORTGAGE,173000.0,Source Verified,debt_consolidation,FL,7.93,2018-12-01,2018,2018-12,Current,0
+,30000,17.97,36.0,D,D1,0.0,OWN,60000.0,Source Verified,credit_card,GA,22.12,2018-12-01,2018,2018-12,Current,0
+,15000,8.19,60.0,A,A4,10.0,MORTGAGE,160000.0,Source Verified,debt_consolidation,GA,17.51,2018-12-01,2018,2018-12,Current,0
+,20000,11.8,60.0,B,B4,10.0,MORTGAGE,57200.0,Not Verified,credit_card,SC,32.38,2018-12-01,2018,2018-12,Current,0
+,2200,19.92,36.0,D,D3,10.0,MORTGAGE,46500.0,Source Verified,other,CA,16.77,2018-12-01,2018,2018-12,Current,0
+,21600,16.91,60.0,C,C5,10.0,OWN,95628.0,Source Verified,debt_consolidation,NJ,22.02,2018-12-01,2018,2018-12,Current,0
+,18000,7.56,36.0,A,A3,10.0,RENT,250000.0,Source Verified,medical,MD,7.16,2018-12-01,2018,2018-12,Current,0
+,6000,15.02,36.0,C,C3,2.0,RENT,32484.0,Not Verified,credit_card,CA,31.03,2018-12-01,2018,2018-12,Current,0
+,5000,16.91,36.0,C,C5,10.0,RENT,85000.0,Verified,debt_consolidation,TN,37.72,2018-12-01,2018,2018-12,Current,0
+,14000,6.46,36.0,A,A1,2.0,RENT,45000.0,Not Verified,credit_card,CA,17.63,2018-12-01,2018,2018-12,Current,0
+,16000,7.56,36.0,A,A3,1.0,MORTGAGE,152000.0,Not Verified,home_improvement,VA,18.81,2018-12-01,2018,2018-12,Current,0
+,11000,16.14,36.0,C,C4,10.0,OWN,45000.0,Verified,major_purchase,KY,16.22,2018-12-01,2018,2018-12,Current,0
+,40000,13.56,60.0,C,C1,7.0,MORTGAGE,145000.0,Not Verified,debt_consolidation,TX,20.0,2018-12-01,2018,2018-12,Current,0
+,40000,12.98,60.0,B,B5,4.0,MORTGAGE,125000.0,Source Verified,credit_card,ND,21.49,2018-12-01,2018,2018-12,Current,0
+,20000,15.02,60.0,C,C3,5.0,RENT,85000.0,Source Verified,debt_consolidation,IN,9.22,2018-12-01,2018,2018-12,Current,0
+,12000,6.46,36.0,A,A1,5.0,OWN,50000.0,Source Verified,debt_consolidation,WA,13.99,2018-12-01,2018,2018-12,Current,0
+,3000,10.33,36.0,B,B1,4.0,RENT,40000.0,Verified,vacation,NY,35.58,2018-12-01,2018,2018-12,Current,0
+,20000,11.8,60.0,B,B4,10.0,RENT,72500.0,Not Verified,credit_card,WI,20.08,2018-12-01,2018,2018-12,Current,0
+,5000,11.31,36.0,B,B3,1.0,RENT,50000.0,Source Verified,credit_card,TN,8.04,2018-12-01,2018,2018-12,Current,0
+,11000,8.81,36.0,A,A5,10.0,OWN,75000.0,Not Verified,debt_consolidation,WI,18.59,2018-12-01,2018,2018-12,Current,0
+,25000,6.46,36.0,A,A1,10.0,RENT,117000.0,Not Verified,credit_card,NC,10.38,2018-12-01,2018,2018-12,Current,0
+,4500,8.81,36.0,A,A5,0.0,RENT,88000.0,Not Verified,debt_consolidation,CA,2.9,2018-12-01,2018,2018-12,Current,0
+,25000,14.47,60.0,C,C2,10.0,MORTGAGE,164200.0,Not Verified,credit_card,VA,30.76,2018-12-01,2018,2018-12,Current,0
+,15500,7.02,36.0,A,A2,10.0,RENT,54000.0,Source Verified,debt_consolidation,NY,5.2,2018-12-01,2018,2018-12,Current,0
+,4000,17.97,36.0,D,D1,10.0,RENT,86000.0,Not Verified,vacation,NY,5.39,2018-12-01,2018,2018-12,Current,0
+,20000,10.72,60.0,B,B2,1.0,MORTGAGE,120000.0,Source Verified,credit_card,MD,28.8,2018-12-01,2018,2018-12,Current,0
+,3200,10.33,36.0,B,B1,0.0,RENT,40000.0,Verified,debt_consolidation,CA,29.82,2018-12-01,2018,2018-12,Current,0
+,8000,14.47,36.0,C,C2,10.0,RENT,50000.0,Source Verified,debt_consolidation,OH,18.63,2018-12-01,2018,2018-12,Current,0
+,10000,7.56,36.0,A,A3,4.0,RENT,200000.0,Source Verified,credit_card,NY,6.68,2018-12-01,2018,2018-12,Current,0
+,10000,8.19,60.0,A,A4,,MORTGAGE,80000.0,Not Verified,credit_card,WV,12.71,2018-12-01,2018,2018-12,Current,0
+,4000,8.19,36.0,A,A4,2.0,MORTGAGE,89400.0,Not Verified,credit_card,MD,15.62,2018-12-01,2018,2018-12,Current,0
+,9500,11.8,36.0,B,B4,1.0,OWN,26880.0,Not Verified,credit_card,IL,11.38,2018-12-01,2018,2018-12,Current,0
+,4000,7.02,36.0,A,A2,10.0,MORTGAGE,67000.0,Not Verified,home_improvement,NY,16.01,2018-12-01,2018,2018-12,Current,0
+,25000,23.4,36.0,E,E1,2.0,RENT,130000.0,Verified,debt_consolidation,AZ,16.15,2018-12-01,2018,2018-12,Current,0
+,12000,13.56,60.0,C,C1,10.0,MORTGAGE,220000.0,Source Verified,home_improvement,NC,8.67,2018-12-01,2018,2018-12,Current,0
+,6200,6.46,36.0,A,A1,9.0,MORTGAGE,59900.0,Source Verified,credit_card,DE,6.71,2018-12-01,2018,2018-12,Current,0
+,5000,8.81,36.0,A,A5,2.0,OWN,22000.0,Source Verified,debt_consolidation,MO,8.67,2018-12-01,2018,2018-12,Current,0
+,11000,16.14,60.0,C,C4,10.0,RENT,54000.0,Not Verified,debt_consolidation,NY,19.82,2018-12-01,2018,2018-12,Current,0
+,22000,6.46,36.0,A,A1,4.0,MORTGAGE,122000.0,Not Verified,credit_card,GA,10.78,2018-12-01,2018,2018-12,Current,0
+,10000,16.14,36.0,C,C4,8.0,MORTGAGE,100000.0,Source Verified,debt_consolidation,NJ,10.69,2018-12-01,2018,2018-12,Current,0
+,10000,6.46,36.0,A,A1,10.0,MORTGAGE,75000.0,Not Verified,credit_card,CA,14.26,2018-12-01,2018,2018-12,Current,0
+,5000,11.8,36.0,B,B4,10.0,MORTGAGE,115000.0,Not Verified,other,NY,30.24,2018-12-01,2018,2018-12,Current,0
+,10000,22.35,60.0,D,D5,10.0,RENT,40000.0,Not Verified,credit_card,IL,24.51,2018-12-01,2018,2018-12,Current,0
+,8000,10.72,36.0,B,B2,0.0,MORTGAGE,35000.0,Not Verified,debt_consolidation,CA,14.03,2018-12-01,2018,2018-12,Current,0
+,15000,8.81,36.0,A,A5,5.0,RENT,65000.0,Source Verified,credit_card,CA,22.0,2018-12-01,2018,2018-12,Current,0
+,17000,27.27,60.0,E,E5,2.0,MORTGAGE,85000.0,Source Verified,credit_card,GA,12.52,2018-12-01,2018,2018-12,Current,0
+,10000,7.02,36.0,A,A2,6.0,RENT,56000.0,Source Verified,credit_card,FL,28.48,2018-12-01,2018,2018-12,Current,0
+,12500,7.56,36.0,A,A3,10.0,MORTGAGE,250000.0,Source Verified,credit_card,MO,1.26,2018-12-01,2018,2018-12,Current,0
+,12950,7.56,36.0,A,A3,10.0,MORTGAGE,55000.0,Source Verified,debt_consolidation,AZ,19.88,2018-12-01,2018,2018-12,Fully Paid,0
+,28000,6.46,36.0,A,A1,10.0,MORTGAGE,80000.0,Not Verified,credit_card,NY,15.12,2018-12-01,2018,2018-12,Current,0
+,12000,16.14,36.0,C,C4,4.0,RENT,47308.0,Not Verified,credit_card,NY,24.25,2018-12-01,2018,2018-12,Current,0
+,20000,10.33,36.0,B,B1,5.0,RENT,80000.0,Source Verified,debt_consolidation,CA,26.84,2018-12-01,2018,2018-12,Current,0
+,15000,7.02,36.0,A,A2,0.0,MORTGAGE,60000.0,Not Verified,credit_card,AZ,10.18,2018-12-01,2018,2018-12,Current,0
+,30000,11.8,36.0,B,B4,7.0,MORTGAGE,80000.0,Source Verified,debt_consolidation,PA,21.27,2018-12-01,2018,2018-12,Current,0
+,30000,11.31,36.0,B,B3,1.0,RENT,100000.0,Not Verified,major_purchase,OH,7.57,2018-12-01,2018,2018-12,Current,0
+,24000,19.92,60.0,D,D3,3.0,MORTGAGE,86000.0,Not Verified,other,TX,36.45,2018-12-01,2018,2018-12,Current,0
+,25000,18.94,60.0,D,D2,10.0,RENT,102000.0,Not Verified,debt_consolidation,FL,9.81,2018-12-01,2018,2018-12,Current,0
+,13000,13.56,36.0,C,C1,4.0,RENT,55000.0,Source Verified,car,MD,30.53,2018-12-01,2018,2018-12,Current,0
+,12000,6.46,36.0,A,A1,5.0,MORTGAGE,110000.0,Not Verified,credit_card,TX,10.67,2018-12-01,2018,2018-12,Current,0
+,21000,8.81,36.0,A,A5,0.0,OWN,96200.0,Verified,debt_consolidation,PA,27.46,2018-12-01,2018,2018-12,Current,0
+,30000,15.02,60.0,C,C3,10.0,MORTGAGE,78000.0,Not Verified,debt_consolidation,TX,19.63,2018-12-01,2018,2018-12,Current,0
+,10000,11.31,36.0,B,B3,,OWN,23903.0,Source Verified,credit_card,PA,14.72,2018-12-01,2018,2018-12,Current,0
+,13000,19.92,36.0,D,D3,1.0,RENT,19000.0,Verified,debt_consolidation,PA,32.79,2018-12-01,2018,2018-12,Current,0
+,5000,13.56,36.0,C,C1,1.0,RENT,25440.0,Source Verified,debt_consolidation,ID,6.23,2018-12-01,2018,2018-12,Current,0
+,24000,12.98,60.0,B,B5,6.0,MORTGAGE,95000.0,Verified,debt_consolidation,NY,33.92,2018-12-01,2018,2018-12,Current,0
+,18000,16.91,60.0,C,C5,,RENT,0.0,Not Verified,debt_consolidation,CA,,2018-12-01,2018,2018-12,Current,0
+,30500,11.8,36.0,B,B4,10.0,MORTGAGE,77000.0,Verified,credit_card,CA,19.75,2018-12-01,2018,2018-12,Current,0
+,12500,12.98,60.0,B,B5,10.0,MORTGAGE,80000.0,Not Verified,major_purchase,KY,24.47,2018-12-01,2018,2018-12,Current,0
+,30000,15.02,36.0,C,C3,10.0,RENT,68500.0,Source Verified,debt_consolidation,CA,13.19,2018-12-01,2018,2018-12,Current,0
+,9900,11.31,36.0,B,B3,10.0,MORTGAGE,50000.0,Source Verified,credit_card,AR,28.8,2018-12-01,2018,2018-12,Current,0
+,39500,16.91,60.0,C,C5,10.0,MORTGAGE,90000.0,Not Verified,debt_consolidation,PA,28.08,2018-12-01,2018,2018-12,Current,0
+,20000,16.91,60.0,C,C5,6.0,RENT,78000.0,Not Verified,debt_consolidation,CA,21.2,2018-12-01,2018,2018-12,Current,0
+,30000,16.14,36.0,C,C4,10.0,MORTGAGE,75000.0,Verified,debt_consolidation,OH,24.91,2018-12-01,2018,2018-12,Current,0
+,16000,8.81,36.0,A,A5,5.0,RENT,65000.0,Not Verified,debt_consolidation,TX,27.77,2018-12-01,2018,2018-12,Current,0
+,9600,8.19,36.0,A,A4,0.0,MORTGAGE,35000.0,Source Verified,debt_consolidation,SC,19.03,2018-12-01,2018,2018-12,Current,0
+,10000,7.02,36.0,A,A2,1.0,MORTGAGE,155000.0,Not Verified,debt_consolidation,NV,20.04,2018-12-01,2018,2018-12,Current,0
+,38000,16.91,60.0,C,C5,3.0,MORTGAGE,160000.0,Source Verified,credit_card,IL,7.52,2018-12-01,2018,2018-12,Current,0
+,10000,8.81,36.0,A,A5,0.0,RENT,150000.0,Not Verified,credit_card,CA,13.19,2018-12-01,2018,2018-12,Current,0
+,25000,17.97,60.0,D,D1,1.0,RENT,55000.0,Source Verified,credit_card,NY,10.17,2018-12-01,2018,2018-12,Current,0
+,15000,8.81,36.0,A,A5,10.0,MORTGAGE,57000.0,Not Verified,debt_consolidation,TX,38.91,2018-12-01,2018,2018-12,Current,0
+,20000,13.56,36.0,C,C1,2.0,MORTGAGE,32000.0,Verified,debt_consolidation,TX,12.19,2018-12-01,2018,2018-12,Current,0
+,24900,20.89,36.0,D,D4,2.0,OWN,27140.0,Verified,debt_consolidation,FL,30.65,2018-12-01,2018,2018-12,Current,0
+,11000,7.02,36.0,A,A2,0.0,MORTGAGE,60000.0,Source Verified,credit_card,AZ,10.72,2018-12-01,2018,2018-12,Current,0
+,30000,16.91,60.0,C,C5,2.0,RENT,113000.0,Source Verified,debt_consolidation,AZ,28.75,2018-12-01,2018,2018-12,Current,0
+,10300,23.4,36.0,E,E1,3.0,RENT,57000.0,Source Verified,debt_consolidation,CA,15.85,2018-12-01,2018,2018-12,Current,0
+,1700,13.56,36.0,C,C1,,RENT,54000.0,Verified,medical,NY,7.98,2018-12-01,2018,2018-12,Current,0
+,29000,11.8,36.0,B,B4,10.0,OWN,126000.0,Source Verified,debt_consolidation,CA,15.62,2018-12-01,2018,2018-12,Current,0
+,5800,8.81,36.0,A,A5,5.0,OWN,68000.0,Source Verified,debt_consolidation,NC,24.49,2018-12-01,2018,2018-12,Current,0
+,30000,17.97,60.0,D,D1,10.0,MORTGAGE,59000.0,Verified,home_improvement,GA,26.97,2018-12-01,2018,2018-12,Current,0
+,35000,24.37,36.0,E,E2,6.0,MORTGAGE,60000.0,Not Verified,debt_consolidation,TX,28.48,2018-12-01,2018,2018-12,Current,0
+,6000,8.19,36.0,A,A4,3.0,RENT,40000.0,Source Verified,credit_card,PA,25.53,2018-12-01,2018,2018-12,Current,0
+,35000,11.8,60.0,B,B4,2.0,MORTGAGE,97000.0,Source Verified,credit_card,TN,21.4,2018-12-01,2018,2018-12,Current,0
+,7000,11.8,36.0,B,B4,7.0,RENT,95000.0,Not Verified,debt_consolidation,MO,10.74,2018-12-01,2018,2018-12,Current,0
+,32000,27.27,60.0,E,E5,5.0,RENT,51000.0,Verified,debt_consolidation,MN,11.76,2018-12-01,2018,2018-12,Current,0
+,30000,26.31,60.0,E,E4,10.0,MORTGAGE,120000.0,Source Verified,credit_card,NY,12.23,2018-12-01,2018,2018-12,Current,0
+,36000,8.19,60.0,A,A4,3.0,MORTGAGE,80000.0,Source Verified,home_improvement,CA,17.99,2018-12-01,2018,2018-12,Current,0
+,32000,10.72,36.0,B,B2,10.0,MORTGAGE,100000.0,Verified,debt_consolidation,SC,15.26,2018-12-01,2018,2018-12,Current,0
+,1950,13.56,36.0,C,C1,,RENT,11000.0,Source Verified,credit_card,OK,5.9,2018-12-01,2018,2018-12,Current,0
+,3000,11.8,36.0,B,B4,,MORTGAGE,17670.0,Verified,debt_consolidation,MO,15.49,2018-12-01,2018,2018-12,Current,0
+,14000,10.33,36.0,B,B1,10.0,RENT,65000.0,Not Verified,debt_consolidation,KS,29.35,2018-12-01,2018,2018-12,Current,0
+,20000,17.97,60.0,D,D1,2.0,RENT,48000.0,Source Verified,debt_consolidation,FL,8.85,2018-12-01,2018,2018-12,Current,0
+,2500,15.02,36.0,C,C3,,OWN,29000.0,Source Verified,debt_consolidation,LA,17.88,2018-12-01,2018,2018-12,Current,0
+,26500,7.56,36.0,A,A3,0.0,MORTGAGE,90000.0,Not Verified,debt_consolidation,FL,18.65,2018-12-01,2018,2018-12,Current,0
+,25000,8.19,36.0,A,A4,10.0,MORTGAGE,115000.0,Not Verified,credit_card,CO,30.45,2018-12-01,2018,2018-12,Current,0
+,10000,11.8,60.0,B,B4,2.0,MORTGAGE,50000.0,Source Verified,debt_consolidation,MD,13.3,2018-12-01,2018,2018-12,Current,0
+,10000,18.94,36.0,D,D2,10.0,RENT,52000.0,Source Verified,credit_card,CA,28.34,2018-12-01,2018,2018-12,Current,0
+,22000,14.47,36.0,C,C2,10.0,OWN,150000.0,Not Verified,credit_card,NY,20.76,2018-12-01,2018,2018-12,Current,0
+,20000,8.19,60.0,A,A4,10.0,RENT,90000.0,Not Verified,debt_consolidation,CA,11.24,2018-12-01,2018,2018-12,Current,0
+,10000,7.56,36.0,A,A3,,OWN,35000.0,Not Verified,debt_consolidation,GA,7.12,2018-12-01,2018,2018-12,Current,0
+,20000,11.31,36.0,B,B3,3.0,MORTGAGE,80200.0,Source Verified,debt_consolidation,FL,16.13,2018-12-01,2018,2018-12,Current,0
+,11000,10.72,36.0,B,B2,1.0,MORTGAGE,130000.0,Not Verified,credit_card,TX,7.54,2018-12-01,2018,2018-12,Current,0
+,24000,16.14,60.0,C,C4,,MORTGAGE,62000.0,Not Verified,debt_consolidation,MA,34.3,2018-12-01,2018,2018-12,Current,0
+,20000,10.72,36.0,B,B2,3.0,RENT,95000.0,Verified,debt_consolidation,NY,16.07,2018-12-01,2018,2018-12,Current,0
+,8000,16.14,36.0,C,C4,3.0,MORTGAGE,64000.0,Source Verified,home_improvement,PA,25.84,2018-12-01,2018,2018-12,Current,0
+,25000,16.91,60.0,C,C5,0.0,RENT,95000.0,Verified,debt_consolidation,CA,14.89,2018-12-01,2018,2018-12,Current,0
+,5000,7.02,36.0,A,A2,10.0,MORTGAGE,206000.0,Verified,car,TX,12.93,2018-12-01,2018,2018-12,Current,0
+,11000,8.19,36.0,A,A4,4.0,MORTGAGE,1120000.0,Source Verified,credit_card,IN,1.36,2018-12-01,2018,2018-12,Current,0
+,10000,6.46,36.0,A,A1,2.0,RENT,61500.0,Source Verified,credit_card,PA,13.99,2018-12-01,2018,2018-12,Current,0
+,10450,12.98,60.0,B,B5,10.0,MORTGAGE,58000.0,Not Verified,credit_card,NY,21.17,2018-12-01,2018,2018-12,Fully Paid,0
+,35000,8.19,36.0,A,A4,9.0,OWN,80000.0,Verified,home_improvement,MS,22.02,2018-12-01,2018,2018-12,Current,0
+,30000,7.02,36.0,A,A2,0.0,MORTGAGE,80000.0,Source Verified,credit_card,AZ,20.76,2018-12-01,2018,2018-12,Current,0
+,10000,15.02,36.0,C,C3,0.0,OWN,95000.0,Not Verified,other,NJ,13.49,2018-12-01,2018,2018-12,Current,0
+,15000,6.46,36.0,A,A1,10.0,OWN,129996.0,Source Verified,debt_consolidation,CA,13.3,2018-12-01,2018,2018-12,Current,0
+,10000,11.8,36.0,B,B4,7.0,RENT,65000.0,Not Verified,debt_consolidation,IL,12.37,2018-12-01,2018,2018-12,Current,0
+,16000,11.8,60.0,B,B4,10.0,RENT,46000.0,Not Verified,other,FL,15.94,2018-12-01,2018,2018-12,Current,0
+,6000,8.19,36.0,A,A4,10.0,MORTGAGE,74000.0,Not Verified,debt_consolidation,TN,20.11,2018-12-01,2018,2018-12,Current,0
+,8000,8.81,36.0,A,A5,2.0,RENT,125000.0,Not Verified,debt_consolidation,NC,14.52,2018-12-01,2018,2018-12,Current,0
+,40000,6.46,36.0,A,A1,1.0,MORTGAGE,110000.0,Source Verified,debt_consolidation,CO,16.91,2018-12-01,2018,2018-12,Current,0
+,16000,16.14,60.0,C,C4,3.0,RENT,80000.0,Source Verified,credit_card,NY,14.76,2018-12-01,2018,2018-12,Current,0
+,4600,7.02,36.0,A,A2,2.0,MORTGAGE,175000.0,Not Verified,debt_consolidation,IL,11.01,2018-12-01,2018,2018-12,Current,0
+,10000,6.46,36.0,A,A1,10.0,MORTGAGE,115000.0,Not Verified,debt_consolidation,OH,10.41,2018-12-01,2018,2018-12,Current,0
+,30000,16.14,36.0,C,C4,0.0,MORTGAGE,90000.0,Not Verified,small_business,CA,7.6,2018-12-01,2018,2018-12,Current,0
+,13000,8.19,36.0,A,A4,10.0,MORTGAGE,35000.0,Verified,credit_card,NV,22.57,2018-12-01,2018,2018-12,Current,0
+,24000,10.72,60.0,B,B2,10.0,MORTGAGE,76500.0,Not Verified,credit_card,PA,18.51,2018-12-01,2018,2018-12,Current,0
+,6000,7.02,36.0,A,A2,10.0,MORTGAGE,20000.0,Verified,home_improvement,CA,57.14,2018-12-01,2018,2018-12,Current,0
+,11000,7.02,36.0,A,A2,0.0,MORTGAGE,150000.0,Not Verified,credit_card,IL,10.47,2018-12-01,2018,2018-12,Current,0
+,6500,7.56,36.0,A,A3,10.0,MORTGAGE,67000.0,Not Verified,home_improvement,CA,15.4,2018-12-01,2018,2018-12,Current,0
+,30000,11.31,36.0,B,B3,5.0,MORTGAGE,190000.0,Verified,credit_card,MD,41.94,2018-12-01,2018,2018-12,Current,0
+,40000,10.72,36.0,B,B2,4.0,MORTGAGE,111000.0,Not Verified,debt_consolidation,NJ,25.93,2018-12-01,2018,2018-12,Current,0
+,22400,8.81,36.0,A,A5,10.0,MORTGAGE,95000.0,Source Verified,debt_consolidation,MN,24.83,2018-12-01,2018,2018-12,Current,0
+,20000,16.14,60.0,C,C4,4.0,MORTGAGE,59000.0,Not Verified,debt_consolidation,CT,27.22,2018-12-01,2018,2018-12,Current,0
+,20500,10.72,36.0,B,B2,2.0,RENT,85000.0,Source Verified,debt_consolidation,CA,11.93,2018-12-01,2018,2018-12,Current,0
+,4500,12.98,36.0,B,B5,10.0,MORTGAGE,53000.0,Verified,house,PA,28.03,2018-12-01,2018,2018-12,Current,0
+,10000,20.89,36.0,D,D4,4.0,MORTGAGE,42000.0,Source Verified,debt_consolidation,PA,6.34,2018-12-01,2018,2018-12,Current,0
+,10000,8.81,36.0,A,A5,10.0,RENT,90000.0,Not Verified,debt_consolidation,CA,22.1,2018-12-01,2018,2018-12,Current,0
+,40000,6.46,36.0,A,A1,1.0,MORTGAGE,186000.0,Source Verified,credit_card,MN,8.32,2018-12-01,2018,2018-12,Current,0
+,2500,7.56,36.0,A,A3,4.0,RENT,37500.0,Not Verified,credit_card,CA,24.9,2018-12-01,2018,2018-12,Current,0
+,10000,11.31,36.0,B,B3,,RENT,27064.0,Verified,debt_consolidation,ID,19.78,2018-12-01,2018,2018-12,Current,0
+,20500,6.46,36.0,A,A1,10.0,MORTGAGE,114500.0,Not Verified,debt_consolidation,MO,31.53,2018-12-01,2018,2018-12,Current,0
+,5000,11.8,36.0,B,B4,10.0,MORTGAGE,72000.0,Source Verified,credit_card,HI,11.25,2018-12-01,2018,2018-12,Current,0
+,9600,6.46,36.0,A,A1,10.0,MORTGAGE,130000.0,Not Verified,debt_consolidation,IN,24.98,2018-12-01,2018,2018-12,Current,0
+,40000,15.02,60.0,C,C3,9.0,RENT,120000.0,Source Verified,debt_consolidation,FL,12.96,2018-12-01,2018,2018-12,Current,0
+,35000,12.98,36.0,B,B5,8.0,MORTGAGE,385000.0,Source Verified,debt_consolidation,TX,4.57,2018-12-01,2018,2018-12,Current,0
+,12500,19.92,60.0,D,D3,2.0,MORTGAGE,98000.0,Source Verified,credit_card,MI,9.75,2018-12-01,2018,2018-12,Current,0
+,12000,8.81,36.0,A,A5,3.0,RENT,49000.0,Not Verified,debt_consolidation,TX,20.92,2018-12-01,2018,2018-12,Current,0
+,5000,6.46,36.0,A,A1,1.0,MORTGAGE,50000.0,Not Verified,credit_card,GA,4.68,2018-12-01,2018,2018-12,Current,0
+,15000,15.02,36.0,C,C3,5.0,RENT,28000.0,Source Verified,credit_card,GA,17.7,2018-12-01,2018,2018-12,Current,0
+,35000,8.19,60.0,A,A4,2.0,MORTGAGE,190000.0,Source Verified,credit_card,CA,12.28,2018-12-01,2018,2018-12,Current,0
+,12000,8.19,36.0,A,A4,2.0,RENT,103000.0,Source Verified,credit_card,LA,35.02,2018-12-01,2018,2018-12,Current,0
+,3000,8.19,36.0,A,A4,10.0,RENT,56000.0,Not Verified,credit_card,IL,8.55,2018-12-01,2018,2018-12,Current,0
+,10000,15.02,36.0,C,C3,2.0,RENT,40000.0,Verified,debt_consolidation,CA,14.7,2018-12-01,2018,2018-12,Current,0
+,25000,27.27,36.0,E,E5,10.0,RENT,57000.0,Source Verified,debt_consolidation,GA,19.87,2018-12-01,2018,2018-12,Current,0
+,14000,11.8,60.0,B,B4,10.0,MORTGAGE,57000.0,Not Verified,debt_consolidation,IL,30.18,2018-12-01,2018,2018-12,Current,0
+,23000,8.19,60.0,A,A4,4.0,MORTGAGE,153000.0,Source Verified,credit_card,CA,13.53,2018-12-01,2018,2018-12,Current,0
+,16000,6.46,36.0,A,A1,4.0,MORTGAGE,43000.0,Source Verified,credit_card,NY,5.86,2018-12-01,2018,2018-12,Current,0
+,12000,12.98,36.0,B,B5,10.0,MORTGAGE,87400.0,Source Verified,credit_card,AL,24.54,2018-12-01,2018,2018-12,Current,0
+,3500,14.47,36.0,C,C2,3.0,OWN,65000.0,Not Verified,credit_card,AZ,10.56,2018-12-01,2018,2018-12,Current,0
+,13500,6.46,36.0,A,A1,,MORTGAGE,11088.0,Source Verified,credit_card,CA,13.1,2018-12-01,2018,2018-12,Current,0
+,4000,16.91,36.0,C,C5,4.0,MORTGAGE,75000.0,Not Verified,home_improvement,IL,25.2,2018-12-01,2018,2018-12,Current,0
+,40000,8.19,36.0,A,A4,4.0,MORTGAGE,100000.0,Verified,credit_card,TX,28.6,2018-12-01,2018,2018-12,Current,0
+,37000,6.46,36.0,A,A1,10.0,MORTGAGE,185300.0,Not Verified,debt_consolidation,OR,6.8,2018-12-01,2018,2018-12,Current,0
+,10000,10.72,60.0,B,B2,4.0,MORTGAGE,100000.0,Source Verified,credit_card,VA,15.02,2018-12-01,2018,2018-12,Current,0
+,26000,16.91,60.0,C,C5,10.0,MORTGAGE,300000.0,Not Verified,debt_consolidation,NY,24.42,2018-12-01,2018,2018-12,Current,0
+,5000,15.02,36.0,C,C3,10.0,OWN,24000.0,Not Verified,other,MI,37.15,2018-12-01,2018,2018-12,Current,0
+,38500,12.98,36.0,B,B5,,OWN,70000.0,Not Verified,debt_consolidation,ME,30.33,2018-12-01,2018,2018-12,Current,0
+,16000,13.56,60.0,C,C1,10.0,MORTGAGE,100000.0,Not Verified,other,NY,23.74,2018-12-01,2018,2018-12,Current,0
+,15000,8.19,60.0,A,A4,0.0,MORTGAGE,39000.0,Not Verified,debt_consolidation,TX,27.48,2018-12-01,2018,2018-12,Current,0
+,5000,7.02,36.0,A,A2,10.0,MORTGAGE,70000.0,Source Verified,debt_consolidation,TX,17.62,2018-12-01,2018,2018-12,Current,0
+,20000,11.31,60.0,B,B3,10.0,MORTGAGE,80000.0,Source Verified,debt_consolidation,MI,26.15,2018-12-01,2018,2018-12,Current,0
+,7025,20.89,36.0,D,D4,0.0,MORTGAGE,45000.0,Not Verified,small_business,CA,23.31,2018-12-01,2018,2018-12,Current,0
+,15000,11.8,36.0,B,B4,,MORTGAGE,15600.0,Not Verified,debt_consolidation,FL,18.31,2018-12-01,2018,2018-12,Current,0
+,20000,10.33,60.0,B,B1,3.0,MORTGAGE,70000.0,Not Verified,major_purchase,NJ,17.01,2018-12-01,2018,2018-12,Current,0
+,15000,8.19,36.0,A,A4,,RENT,54000.0,Not Verified,credit_card,NY,21.64,2018-12-01,2018,2018-12,Current,0
+,28000,12.98,60.0,B,B5,10.0,MORTGAGE,70000.0,Not Verified,debt_consolidation,VA,40.99,2018-12-01,2018,2018-12,Current,0
+,5000,23.4,36.0,E,E1,2.0,OWN,175000.0,Source Verified,debt_consolidation,NY,19.96,2018-12-01,2018,2018-12,Current,0
+,6000,10.72,36.0,B,B2,,MORTGAGE,30000.0,Verified,debt_consolidation,FL,19.4,2018-12-01,2018,2018-12,Current,0
+,30000,16.14,36.0,C,C4,0.0,RENT,55000.0,Not Verified,credit_card,MI,23.75,2018-12-01,2018,2018-12,Current,0
+,15000,7.02,36.0,A,A2,2.0,MORTGAGE,320000.0,Not Verified,debt_consolidation,PA,2.14,2018-12-01,2018,2018-12,Current,0
+,5000,24.37,36.0,E,E2,10.0,RENT,55000.0,Not Verified,credit_card,WA,10.82,2018-12-01,2018,2018-12,Current,0
+,32000,13.56,60.0,C,C1,4.0,MORTGAGE,85000.0,Source Verified,credit_card,TX,31.85,2018-12-01,2018,2018-12,Current,0
+,10000,11.8,60.0,B,B4,10.0,MORTGAGE,92133.0,Not Verified,credit_card,GA,18.77,2018-12-01,2018,2018-12,Current,0
+,27950,8.19,36.0,A,A4,4.0,MORTGAGE,75000.0,Not Verified,debt_consolidation,OH,30.7,2018-12-01,2018,2018-12,Current,0
+,20000,7.02,36.0,A,A2,10.0,MORTGAGE,53000.0,Source Verified,debt_consolidation,NV,23.17,2018-12-01,2018,2018-12,Current,0
+,9500,13.56,36.0,C,C1,10.0,MORTGAGE,49000.0,Source Verified,credit_card,MI,34.95,2018-12-01,2018,2018-12,Current,0
+,24000,10.33,60.0,B,B1,4.0,RENT,86000.0,Not Verified,debt_consolidation,CA,8.99,2018-12-01,2018,2018-12,Current,0
+,2000,20.89,36.0,D,D4,8.0,RENT,47000.0,Source Verified,other,PA,18.62,2018-12-01,2018,2018-12,Current,0
+,30000,13.56,60.0,C,C1,6.0,MORTGAGE,148550.0,Not Verified,debt_consolidation,NC,21.88,2018-12-01,2018,2018-12,Current,0
+,10000,12.98,36.0,B,B5,0.0,RENT,70000.0,Not Verified,credit_card,PA,10.61,2018-12-01,2018,2018-12,Current,0
+,8000,6.46,36.0,A,A1,5.0,MORTGAGE,52000.0,Source Verified,debt_consolidation,NV,5.58,2018-12-01,2018,2018-12,Current,0
+,22000,8.19,36.0,A,A4,4.0,MORTGAGE,125000.0,Not Verified,debt_consolidation,AL,28.2,2018-12-01,2018,2018-12,Current,0
+,15000,8.19,36.0,A,A4,10.0,MORTGAGE,95000.0,Source Verified,debt_consolidation,AZ,25.2,2018-12-01,2018,2018-12,Current,0
+,3000,8.19,36.0,A,A4,10.0,RENT,36000.0,Source Verified,major_purchase,FL,16.5,2018-12-01,2018,2018-12,Current,0
+,10000,8.19,36.0,A,A4,,MORTGAGE,58000.0,Not Verified,credit_card,AZ,27.81,2018-12-01,2018,2018-12,Current,0
+,12000,14.47,36.0,C,C2,,RENT,50097.0,Not Verified,debt_consolidation,NE,34.0,2018-12-01,2018,2018-12,Current,0
+,7000,11.31,36.0,B,B3,4.0,MORTGAGE,43000.0,Not Verified,debt_consolidation,CA,17.75,2018-12-01,2018,2018-12,Current,0
+,25000,8.19,60.0,A,A4,10.0,RENT,110000.0,Not Verified,credit_card,MS,16.09,2018-12-01,2018,2018-12,Current,0
+,19000,6.46,36.0,A,A1,10.0,MORTGAGE,75000.0,Not Verified,credit_card,TN,14.37,2018-12-01,2018,2018-12,Current,0
+,16000,12.98,36.0,B,B5,3.0,MORTGAGE,90000.0,Not Verified,credit_card,UT,23.15,2018-12-01,2018,2018-12,Current,0
+,7200,6.46,36.0,A,A1,2.0,MORTGAGE,52000.0,Not Verified,debt_consolidation,IN,4.78,2018-12-01,2018,2018-12,Current,0
+,6500,10.33,36.0,B,B1,10.0,MORTGAGE,85000.0,Not Verified,debt_consolidation,GA,19.46,2018-12-01,2018,2018-12,Current,0
+,14000,7.02,36.0,A,A2,10.0,MORTGAGE,120000.0,Source Verified,home_improvement,OR,6.6,2018-12-01,2018,2018-12,Current,0
+,5300,10.72,36.0,B,B2,10.0,MORTGAGE,26000.0,Not Verified,debt_consolidation,OH,8.96,2018-12-01,2018,2018-12,Current,0
+,40000,11.8,36.0,B,B4,8.0,RENT,120000.0,Source Verified,credit_card,CA,14.24,2018-12-01,2018,2018-12,Current,0
+,11200,10.72,60.0,B,B2,10.0,MORTGAGE,50000.0,Not Verified,debt_consolidation,CT,22.64,2018-12-01,2018,2018-12,Current,0
+,5600,6.46,36.0,A,A1,9.0,RENT,37500.0,Not Verified,debt_consolidation,FL,23.23,2018-12-01,2018,2018-12,Current,0
+,10000,7.02,36.0,A,A2,5.0,OWN,107000.0,Not Verified,debt_consolidation,GA,10.14,2018-12-01,2018,2018-12,Current,0
+,13000,6.46,36.0,A,A1,4.0,MORTGAGE,89000.0,Source Verified,credit_card,CA,11.79,2018-12-01,2018,2018-12,Current,0
+,36000,10.72,60.0,B,B2,8.0,RENT,90000.0,Source Verified,moving,NY,5.36,2018-12-01,2018,2018-12,Current,0
+,10000,13.56,60.0,C,C1,1.0,RENT,40000.0,Source Verified,credit_card,FL,24.24,2018-12-01,2018,2018-12,Current,0
+,5000,14.47,36.0,C,C2,10.0,RENT,46737.0,Verified,debt_consolidation,NY,15.18,2018-12-01,2018,2018-12,Current,0
+,33000,16.14,60.0,C,C4,1.0,MORTGAGE,135000.0,Source Verified,debt_consolidation,MO,13.5,2018-12-01,2018,2018-12,Current,0
+,12000,10.33,36.0,B,B1,0.0,MORTGAGE,150000.0,Not Verified,debt_consolidation,NY,13.38,2018-12-01,2018,2018-12,Current,0
+,12000,16.14,36.0,C,C4,3.0,MORTGAGE,85000.0,Source Verified,medical,IN,12.73,2018-12-01,2018,2018-12,Current,0
+,24000,12.98,60.0,B,B5,8.0,MORTGAGE,50000.0,Not Verified,debt_consolidation,IN,52.28,2018-12-01,2018,2018-12,Current,0
+,9000,11.8,36.0,B,B4,1.0,RENT,40000.0,Not Verified,debt_consolidation,CA,4.92,2018-12-01,2018,2018-12,Current,0
+,12400,11.8,36.0,B,B4,10.0,MORTGAGE,64000.0,Verified,debt_consolidation,NH,28.0,2018-12-01,2018,2018-12,Current,0
+,35000,10.33,60.0,B,B1,10.0,MORTGAGE,52000.0,Source Verified,house,GA,10.15,2018-12-01,2018,2018-12,Current,0
+,25000,6.46,36.0,A,A1,10.0,OWN,100000.0,Not Verified,debt_consolidation,MD,19.46,2018-12-01,2018,2018-12,Current,0
+,5000,7.56,36.0,A,A3,5.0,RENT,34000.0,Verified,debt_consolidation,FL,18.96,2018-12-01,2018,2018-12,Current,0
+,4000,10.33,36.0,B,B1,7.0,RENT,30000.0,Source Verified,debt_consolidation,GA,33.2,2018-12-01,2018,2018-12,Current,0
+,7650,8.19,36.0,A,A4,3.0,RENT,29000.0,Not Verified,debt_consolidation,OH,29.22,2018-12-01,2018,2018-12,Current,0
+,6000,12.98,36.0,B,B5,0.0,RENT,43000.0,Not Verified,credit_card,WA,27.16,2018-12-01,2018,2018-12,Current,0
+,10000,14.47,36.0,C,C2,2.0,RENT,35000.0,Source Verified,credit_card,UT,9.95,2018-12-01,2018,2018-12,Current,0
+,10000,14.47,36.0,C,C2,3.0,RENT,40500.0,Not Verified,credit_card,TX,39.35,2018-12-01,2018,2018-12,Current,0
+,12000,8.81,36.0,A,A5,9.0,MORTGAGE,125005.0,Not Verified,credit_card,TX,21.19,2018-12-01,2018,2018-12,Current,0
+,3000,17.97,36.0,D,D1,2.0,RENT,60000.0,Source Verified,credit_card,TX,34.86,2018-12-01,2018,2018-12,Current,0
+,20000,10.72,36.0,B,B2,6.0,MORTGAGE,84000.0,Source Verified,credit_card,MI,29.79,2018-12-01,2018,2018-12,Current,0
+,20000,26.31,60.0,E,E4,4.0,MORTGAGE,58000.0,Not Verified,credit_card,LA,22.66,2018-12-01,2018,2018-12,Fully Paid,0
+,12000,7.02,36.0,A,A2,10.0,MORTGAGE,80000.0,Not Verified,debt_consolidation,HI,5.7,2018-12-01,2018,2018-12,Current,0
+,5500,8.19,36.0,A,A4,10.0,RENT,71103.0,Source Verified,credit_card,AZ,32.57,2018-12-01,2018,2018-12,Current,0
+,24000,13.56,60.0,C,C1,5.0,MORTGAGE,60000.0,Verified,debt_consolidation,OH,17.26,2018-12-01,2018,2018-12,Current,0
+,30000,6.46,36.0,A,A1,2.0,MORTGAGE,66000.0,Source Verified,debt_consolidation,FL,24.1,2018-12-01,2018,2018-12,Current,0
+,40000,10.33,60.0,B,B1,0.0,RENT,210000.0,Not Verified,debt_consolidation,NC,5.7,2018-12-01,2018,2018-12,Current,0
+,9600,7.02,36.0,A,A2,0.0,MORTGAGE,85200.0,Not Verified,home_improvement,KY,5.38,2018-12-01,2018,2018-12,Current,0
+,20000,8.19,60.0,A,A4,10.0,MORTGAGE,80000.0,Source Verified,debt_consolidation,MN,21.87,2018-12-01,2018,2018-12,Current,0
+,9600,6.46,36.0,A,A1,5.0,RENT,80000.0,Source Verified,debt_consolidation,FL,18.9,2018-12-01,2018,2018-12,Current,0
+,11700,10.33,60.0,B,B1,10.0,MORTGAGE,48000.0,Source Verified,debt_consolidation,WI,18.45,2018-12-01,2018,2018-12,Current,0
+,25000,15.02,60.0,C,C3,10.0,MORTGAGE,50000.0,Source Verified,debt_consolidation,WI,17.71,2018-12-01,2018,2018-12,Current,0
+,7800,7.02,36.0,A,A2,10.0,OWN,40000.0,Not Verified,debt_consolidation,WV,8.31,2018-12-01,2018,2018-12,Current,0
+,28000,14.47,60.0,C,C2,3.0,MORTGAGE,54000.0,Not Verified,debt_consolidation,VA,28.44,2018-12-01,2018,2018-12,Current,0
+,25000,11.8,60.0,B,B4,5.0,RENT,72000.0,Not Verified,credit_card,CA,30.5,2018-12-01,2018,2018-12,Current,0
+,6500,8.19,36.0,A,A4,,RENT,105000.0,Verified,debt_consolidation,VA,24.01,2018-12-01,2018,2018-12,Current,0
+,40000,6.46,36.0,A,A1,1.0,MORTGAGE,100000.0,Source Verified,debt_consolidation,OH,23.65,2018-12-01,2018,2018-12,Current,0
+,5000,26.31,36.0,E,E4,2.0,RENT,72000.0,Not Verified,moving,NY,17.52,2018-12-01,2018,2018-12,Current,0
+,15000,16.91,60.0,C,C5,10.0,RENT,76000.0,Not Verified,credit_card,KS,24.03,2018-12-01,2018,2018-12,Current,0
+,19700,10.72,60.0,B,B2,2.0,MORTGAGE,32000.0,Verified,other,GA,1.31,2018-12-01,2018,2018-12,Current,0
+,10000,14.47,60.0,C,C2,4.0,OWN,54000.0,Source Verified,debt_consolidation,GA,25.09,2018-12-01,2018,2018-12,Current,0
+,5000,10.33,36.0,B,B1,9.0,MORTGAGE,144000.0,Not Verified,credit_card,PA,9.76,2018-12-01,2018,2018-12,Current,0
+,30000,16.14,36.0,C,C4,4.0,MORTGAGE,91000.0,Not Verified,debt_consolidation,OH,33.48,2018-12-01,2018,2018-12,Current,0
+,27000,22.35,60.0,D,D5,1.0,MORTGAGE,75000.0,Source Verified,debt_consolidation,SC,15.62,2018-12-01,2018,2018-12,Current,0
+,10500,14.47,36.0,C,C2,10.0,RENT,51500.0,Not Verified,debt_consolidation,CT,2.68,2018-12-01,2018,2018-12,Current,0
+,9000,7.56,36.0,A,A3,4.0,RENT,47000.0,Not Verified,debt_consolidation,CA,26.12,2018-12-01,2018,2018-12,Current,0
+,16000,11.8,36.0,B,B4,0.0,MORTGAGE,35000.0,Verified,major_purchase,IL,15.84,2018-12-01,2018,2018-12,Current,0
+,20000,11.8,36.0,B,B4,10.0,OWN,75000.0,Source Verified,credit_card,NY,15.66,2018-12-01,2018,2018-12,Current,0
+,8400,11.31,36.0,B,B3,1.0,RENT,43000.0,Not Verified,debt_consolidation,MI,8.74,2018-12-01,2018,2018-12,Current,0
+,11000,10.33,60.0,B,B1,7.0,MORTGAGE,87000.0,Source Verified,debt_consolidation,OH,15.88,2018-12-01,2018,2018-12,Current,0
+,3375,14.47,36.0,C,C2,4.0,MORTGAGE,39409.0,Not Verified,credit_card,IL,5.76,2018-12-01,2018,2018-12,Current,0
+,5500,6.46,36.0,A,A1,0.0,OWN,40000.0,Not Verified,credit_card,CT,6.57,2018-12-01,2018,2018-12,Current,0
+,32625,12.98,36.0,B,B5,2.0,MORTGAGE,166000.0,Source Verified,debt_consolidation,VA,35.01,2018-12-01,2018,2018-12,Current,0
+,12000,7.02,36.0,A,A2,1.0,MORTGAGE,80000.0,Not Verified,home_improvement,KS,34.19,2018-12-01,2018,2018-12,Current,0
+,35000,17.97,60.0,D,D1,2.0,RENT,120000.0,Source Verified,debt_consolidation,NJ,23.92,2018-12-01,2018,2018-12,Current,0
+,8000,8.19,36.0,A,A4,9.0,RENT,63000.0,Not Verified,debt_consolidation,FL,8.53,2018-12-01,2018,2018-12,Current,0
+,10000,12.98,60.0,B,B5,1.0,MORTGAGE,60000.0,Not Verified,car,RI,12.25,2018-12-01,2018,2018-12,Fully Paid,0
+,20000,10.33,36.0,B,B1,8.0,MORTGAGE,60000.0,Not Verified,debt_consolidation,CA,16.42,2018-12-01,2018,2018-12,Current,0
+,36000,10.33,36.0,B,B1,10.0,OWN,118000.0,Verified,credit_card,NY,25.05,2018-12-01,2018,2018-12,Current,0
+,15000,8.19,36.0,A,A4,0.0,MORTGAGE,260000.0,Verified,credit_card,OH,16.63,2018-12-01,2018,2018-12,Current,0
+,17500,22.35,60.0,D,D5,9.0,MORTGAGE,50000.0,Verified,debt_consolidation,OH,36.92,2018-12-01,2018,2018-12,Current,0
+,10400,12.98,36.0,B,B5,10.0,MORTGAGE,66000.0,Source Verified,debt_consolidation,PA,23.38,2018-12-01,2018,2018-12,Current,0
+,10450,11.31,36.0,B,B3,0.0,MORTGAGE,30000.0,Source Verified,debt_consolidation,NY,13.44,2018-12-01,2018,2018-12,Current,0
+,3500,10.72,36.0,B,B2,2.0,OWN,195000.0,Not Verified,debt_consolidation,TX,11.58,2018-12-01,2018,2018-12,Current,0
+,6000,13.56,36.0,C,C1,1.0,RENT,35000.0,Not Verified,debt_consolidation,PA,3.77,2018-12-01,2018,2018-12,Current,0
+,10800,10.72,60.0,B,B2,9.0,MORTGAGE,59999.0,Verified,credit_card,TX,27.77,2018-12-01,2018,2018-12,Current,0
+,8500,8.81,36.0,A,A5,10.0,MORTGAGE,67000.0,Verified,debt_consolidation,NC,29.03,2018-12-01,2018,2018-12,Current,0
+,24000,16.91,36.0,C,C5,9.0,MORTGAGE,125000.0,Verified,credit_card,NM,46.52,2018-12-01,2018,2018-12,Current,0
+,12000,6.46,36.0,A,A1,7.0,MORTGAGE,50000.0,Not Verified,credit_card,MI,20.81,2018-12-01,2018,2018-12,Current,0
+,10000,6.46,36.0,A,A1,10.0,MORTGAGE,105000.0,Source Verified,credit_card,PA,15.58,2018-12-01,2018,2018-12,Current,0
+,38800,11.8,60.0,B,B4,1.0,MORTGAGE,120000.0,Verified,debt_consolidation,LA,17.21,2018-12-01,2018,2018-12,Current,0
+,30000,13.56,60.0,C,C1,5.0,RENT,55000.0,Source Verified,debt_consolidation,GA,13.35,2018-12-01,2018,2018-12,Current,0
+,40000,11.31,36.0,B,B3,10.0,MORTGAGE,122000.0,Verified,debt_consolidation,NJ,13.99,2018-12-01,2018,2018-12,Current,0
+,3500,11.31,36.0,B,B3,,OWN,34500.0,Not Verified,credit_card,MI,28.8,2018-12-01,2018,2018-12,Current,0
+,40000,11.8,60.0,B,B4,0.0,RENT,214644.0,Verified,debt_consolidation,CA,17.1,2018-12-01,2018,2018-12,Current,0
+,15000,11.8,60.0,B,B4,1.0,OWN,62000.0,Source Verified,credit_card,TX,19.92,2018-12-01,2018,2018-12,Current,0
+,2800,6.46,36.0,A,A1,10.0,MORTGAGE,40000.0,Source Verified,debt_consolidation,WV,7.38,2018-12-01,2018,2018-12,Current,0
+,7000,6.46,36.0,A,A1,0.0,OWN,25000.0,Not Verified,debt_consolidation,FL,11.91,2018-12-01,2018,2018-12,Current,0
+,25000,7.56,36.0,A,A3,0.0,RENT,100000.0,Not Verified,debt_consolidation,NY,3.38,2018-12-01,2018,2018-12,Current,0
+,20000,11.8,60.0,B,B4,10.0,MORTGAGE,48400.0,Not Verified,credit_card,AZ,31.71,2018-12-01,2018,2018-12,Current,0
+,36000,12.98,60.0,B,B5,6.0,MORTGAGE,190000.0,Not Verified,debt_consolidation,MN,12.11,2018-12-01,2018,2018-12,Current,0
+,10000,17.97,36.0,D,D1,5.0,RENT,50000.0,Source Verified,debt_consolidation,CA,13.99,2018-12-01,2018,2018-12,Current,0
+,40000,18.94,60.0,D,D2,7.0,MORTGAGE,225000.0,Source Verified,home_improvement,WI,18.66,2018-12-01,2018,2018-12,Current,0
+,11000,16.91,60.0,C,C5,3.0,MORTGAGE,86000.0,Not Verified,credit_card,MD,24.3,2018-12-01,2018,2018-12,Current,0
+,11000,6.46,36.0,A,A1,3.0,ANY,45000.0,Not Verified,credit_card,MN,21.68,2018-12-01,2018,2018-12,Current,0
+,29050,10.33,36.0,B,B1,0.0,MORTGAGE,68000.0,Source Verified,home_improvement,IL,23.65,2018-12-01,2018,2018-12,Fully Paid,0
+,20000,25.34,36.0,E,E3,7.0,MORTGAGE,50000.0,Not Verified,debt_consolidation,OK,22.32,2018-12-01,2018,2018-12,Current,0
+,10000,11.31,36.0,B,B3,3.0,RENT,75000.0,Not Verified,credit_card,NY,8.16,2018-12-01,2018,2018-12,Current,0
+,18000,26.31,36.0,E,E4,7.0,MORTGAGE,98000.0,Verified,debt_consolidation,CT,21.49,2018-12-01,2018,2018-12,Current,0
+,40000,8.19,60.0,A,A4,3.0,MORTGAGE,110000.0,Not Verified,debt_consolidation,GA,19.08,2018-12-01,2018,2018-12,Current,0
+,15500,7.02,36.0,A,A2,5.0,MORTGAGE,50000.0,Not Verified,debt_consolidation,GA,20.36,2018-12-01,2018,2018-12,Current,0
+,1000,13.56,36.0,C,C1,1.0,RENT,42140.0,Source Verified,moving,TN,24.18,2018-12-01,2018,2018-12,Fully Paid,0
+,1000,23.4,36.0,E,E1,2.0,MORTGAGE,115000.0,Not Verified,debt_consolidation,FL,20.53,2018-12-01,2018,2018-12,Current,0
+,12500,14.47,36.0,C,C2,1.0,MORTGAGE,120000.0,Source Verified,debt_consolidation,GA,4.28,2018-12-01,2018,2018-12,Current,0
+,1000,10.33,36.0,B,B1,10.0,MORTGAGE,89000.0,Not Verified,medical,VA,34.52,2018-12-01,2018,2018-12,Current,0
+,25000,10.33,60.0,B,B1,4.0,RENT,82000.0,Not Verified,credit_card,CA,25.85,2018-12-01,2018,2018-12,Current,0
+,5000,7.56,36.0,A,A3,2.0,MORTGAGE,225000.0,Not Verified,small_business,CT,11.14,2018-12-01,2018,2018-12,Current,0
+,35000,10.72,60.0,B,B2,8.0,MORTGAGE,25400.0,Not Verified,home_improvement,FL,40.74,2018-12-01,2018,2018-12,Current,0
+,3000,11.31,36.0,B,B3,6.0,RENT,47000.0,Not Verified,credit_card,TN,11.52,2018-12-01,2018,2018-12,Current,0
+,1500,20.89,36.0,D,D4,,RENT,45000.0,Not Verified,credit_card,MD,11.57,2018-12-01,2018,2018-12,Current,0
+,22000,11.8,60.0,B,B4,1.0,RENT,65000.0,Source Verified,credit_card,IL,32.64,2018-12-01,2018,2018-12,Current,0
+,6000,6.46,36.0,A,A1,0.0,RENT,50000.0,Not Verified,debt_consolidation,CA,8.79,2018-12-01,2018,2018-12,Current,0
+,6000,7.56,36.0,A,A3,10.0,MORTGAGE,64000.0,Source Verified,credit_card,FL,13.76,2018-12-01,2018,2018-12,Current,0
+,10000,10.33,36.0,B,B1,3.0,MORTGAGE,60000.0,Not Verified,debt_consolidation,CA,19.04,2018-12-01,2018,2018-12,Current,0
+,4500,27.27,36.0,E,E5,0.0,RENT,45000.0,Not Verified,debt_consolidation,NY,5.89,2018-12-01,2018,2018-12,Current,0
+,16000,8.81,36.0,A,A5,5.0,RENT,43000.0,Source Verified,debt_consolidation,NJ,13.82,2018-12-01,2018,2018-12,Current,0
+,40000,15.02,60.0,C,C3,,MORTGAGE,70000.0,Verified,debt_consolidation,MD,28.7,2018-12-01,2018,2018-12,Current,0
+,5000,24.37,36.0,E,E2,4.0,RENT,45000.0,Source Verified,debt_consolidation,CA,18.05,2018-12-01,2018,2018-12,Current,0
+,12000,14.47,36.0,C,C2,8.0,MORTGAGE,99600.0,Not Verified,debt_consolidation,MD,35.05,2018-12-01,2018,2018-12,Current,0
+,4000,8.19,36.0,A,A4,4.0,MORTGAGE,85000.0,Source Verified,debt_consolidation,WV,16.41,2018-12-01,2018,2018-12,Current,0
+,10000,6.46,36.0,A,A1,7.0,MORTGAGE,50000.0,Not Verified,debt_consolidation,ID,24.75,2018-12-01,2018,2018-12,Current,0
+,16850,11.8,36.0,B,B4,,RENT,13032.0,Verified,debt_consolidation,TX,39.78,2018-12-01,2018,2018-12,Current,0
+,16000,6.46,36.0,A,A1,,OWN,48000.0,Source Verified,credit_card,TX,14.6,2018-12-01,2018,2018-12,Current,0
+,7000,6.46,36.0,A,A1,,MORTGAGE,36000.0,Not Verified,credit_card,OH,24.77,2018-12-01,2018,2018-12,Current,0
+,6500,8.81,36.0,A,A5,3.0,MORTGAGE,88000.0,Not Verified,credit_card,MA,14.22,2018-12-01,2018,2018-12,Current,0
+,20000,16.91,60.0,C,C5,5.0,OWN,68000.0,Not Verified,debt_consolidation,FL,17.28,2018-12-01,2018,2018-12,Current,0
+,12600,27.27,36.0,E,E5,3.0,RENT,60000.0,Verified,debt_consolidation,GA,12.62,2018-12-01,2018,2018-12,Current,0
+,4800,8.19,36.0,A,A4,7.0,RENT,39000.0,Source Verified,debt_consolidation,WI,18.65,2018-12-01,2018,2018-12,Current,0
+,16000,10.72,36.0,B,B2,8.0,MORTGAGE,60000.0,Verified,credit_card,IN,15.36,2018-12-01,2018,2018-12,Current,0
+,5000,8.81,36.0,A,A5,8.0,MORTGAGE,55000.0,Not Verified,credit_card,WI,18.7,2018-12-01,2018,2018-12,Current,0
+,31025,22.35,60.0,D,D5,,RENT,84000.0,Verified,other,FL,36.85,2018-12-01,2018,2018-12,Current,0
+,15000,11.8,60.0,B,B4,3.0,MORTGAGE,150000.0,Source Verified,debt_consolidation,MA,17.5,2018-12-01,2018,2018-12,Current,0
+,14400,16.91,36.0,C,C5,2.0,RENT,60000.0,Source Verified,debt_consolidation,MA,38.8,2018-12-01,2018,2018-12,Current,0
+,15000,10.72,36.0,B,B2,1.0,RENT,110000.0,Not Verified,credit_card,RI,12.04,2018-12-01,2018,2018-12,Current,0
+,25000,14.47,60.0,C,C2,10.0,MORTGAGE,170000.0,Source Verified,debt_consolidation,NV,15.51,2018-12-01,2018,2018-12,Current,0
+,1200,26.31,36.0,E,E4,5.0,MORTGAGE,35000.0,Not Verified,other,TX,30.8,2018-12-01,2018,2018-12,Current,0
+,5000,13.56,36.0,C,C1,8.0,RENT,99000.0,Not Verified,debt_consolidation,VA,33.07,2018-12-01,2018,2018-12,Current,0
+,7000,17.97,36.0,D,D1,10.0,RENT,32000.0,Not Verified,credit_card,MI,23.52,2018-12-01,2018,2018-12,Current,0
+,30000,17.97,60.0,D,D1,4.0,RENT,135000.0,Source Verified,other,NY,5.87,2018-12-01,2018,2018-12,Current,0
+,3500,18.94,36.0,D,D2,10.0,MORTGAGE,127300.0,Verified,small_business,NV,17.91,2018-12-01,2018,2018-12,Fully Paid,0
+,12700,11.8,60.0,B,B4,10.0,MORTGAGE,60000.0,Not Verified,debt_consolidation,IL,29.82,2018-12-01,2018,2018-12,Current,0
+,3500,11.31,36.0,B,B3,1.0,MORTGAGE,60000.0,Not Verified,credit_card,MD,9.94,2018-12-01,2018,2018-12,Current,0
+,24000,11.8,60.0,B,B4,5.0,MORTGAGE,170000.0,Not Verified,debt_consolidation,TX,12.08,2018-12-01,2018,2018-12,Current,0
+,30000,10.72,36.0,B,B2,10.0,OWN,96000.0,Not Verified,debt_consolidation,TX,55.43,2018-12-01,2018,2018-12,Current,0
+,20000,11.31,36.0,B,B3,0.0,MORTGAGE,118000.0,Not Verified,debt_consolidation,CA,12.13,2018-12-01,2018,2018-12,Current,0
+,11000,10.33,36.0,B,B1,,MORTGAGE,40000.0,Not Verified,credit_card,MD,28.89,2018-12-01,2018,2018-12,Current,0
+,7500,8.81,36.0,A,A5,,MORTGAGE,89000.0,Not Verified,debt_consolidation,MD,2.6,2018-12-01,2018,2018-12,Current,0
+,8000,11.8,36.0,B,B4,3.0,RENT,69000.0,Not Verified,credit_card,FL,33.41,2018-12-01,2018,2018-12,Current,0
+,9000,10.72,36.0,B,B2,10.0,RENT,54000.0,Not Verified,debt_consolidation,IN,9.24,2018-12-01,2018,2018-12,Current,0
+,40000,10.72,60.0,B,B2,0.0,RENT,180000.0,Source Verified,other,TX,11.54,2018-12-01,2018,2018-12,Current,0
+,15000,13.56,60.0,C,C1,0.0,MORTGAGE,85000.0,Not Verified,debt_consolidation,TX,16.22,2018-12-01,2018,2018-12,Current,0
+,35000,16.91,36.0,C,C5,1.0,MORTGAGE,237000.0,Verified,major_purchase,LA,7.59,2018-12-01,2018,2018-12,Current,0
+,40000,12.98,36.0,B,B5,1.0,MORTGAGE,225000.0,Not Verified,small_business,CT,12.68,2018-12-01,2018,2018-12,Current,0
+,4800,13.56,36.0,C,C1,10.0,MORTGAGE,77000.0,Source Verified,debt_consolidation,NY,26.29,2018-12-01,2018,2018-12,Current,0
+,18000,15.02,36.0,C,C3,4.0,RENT,58000.0,Not Verified,debt_consolidation,WA,27.11,2018-12-01,2018,2018-12,Current,0
+,16000,7.56,36.0,A,A3,10.0,MORTGAGE,79000.0,Not Verified,home_improvement,OH,23.64,2018-12-01,2018,2018-12,Current,0
+,10000,16.14,60.0,C,C4,10.0,RENT,173500.0,Source Verified,other,CA,7.23,2018-12-01,2018,2018-12,Current,0
+,16500,11.8,60.0,B,B4,8.0,RENT,50000.0,Not Verified,credit_card,TX,11.64,2018-12-01,2018,2018-12,Current,0
+,12000,7.56,36.0,A,A3,10.0,MORTGAGE,94992.0,Source Verified,debt_consolidation,AZ,14.74,2018-12-01,2018,2018-12,Current,0
+,15000,19.92,36.0,D,D3,10.0,MORTGAGE,82038.0,Source Verified,debt_consolidation,FL,27.63,2018-12-01,2018,2018-12,Current,0
+,8000,11.8,36.0,B,B4,3.0,RENT,53188.0,Not Verified,debt_consolidation,TX,13.67,2018-12-01,2018,2018-12,Current,0
+,12500,17.97,60.0,D,D1,1.0,RENT,68000.0,Source Verified,credit_card,CT,15.65,2018-12-01,2018,2018-12,Current,0
+,15000,12.98,60.0,B,B5,6.0,RENT,61000.0,Source Verified,debt_consolidation,NY,16.21,2018-12-01,2018,2018-12,Current,0
+,15000,8.81,36.0,A,A5,5.0,RENT,60000.0,Source Verified,debt_consolidation,NY,9.02,2018-12-01,2018,2018-12,Current,0
+,15000,7.02,36.0,A,A2,3.0,OWN,125000.0,Not Verified,debt_consolidation,NY,13.31,2018-12-01,2018,2018-12,Current,0
+,8000,11.8,36.0,B,B4,2.0,RENT,22000.0,Not Verified,credit_card,AZ,16.26,2018-12-01,2018,2018-12,Current,0
+,25000,11.8,36.0,B,B4,0.0,RENT,160000.0,Not Verified,credit_card,RI,5.51,2018-12-01,2018,2018-12,Current,0
+,6000,8.19,36.0,A,A4,10.0,MORTGAGE,69000.0,Source Verified,debt_consolidation,NC,25.77,2018-12-01,2018,2018-12,Current,0
+,12000,8.19,36.0,A,A4,4.0,MORTGAGE,60000.0,Not Verified,credit_card,MN,23.48,2018-12-01,2018,2018-12,Current,0
+,40000,11.8,60.0,B,B4,,RENT,223000.0,Not Verified,other,AZ,2.36,2018-12-01,2018,2018-12,Current,0
+,9000,12.98,36.0,B,B5,3.0,RENT,48000.0,Not Verified,credit_card,NV,19.63,2018-12-01,2018,2018-12,Current,0
+,14000,12.98,36.0,B,B5,6.0,RENT,70000.0,Not Verified,debt_consolidation,IN,19.29,2018-12-01,2018,2018-12,Current,0
+,15000,10.72,60.0,B,B2,4.0,MORTGAGE,120000.0,Not Verified,debt_consolidation,MA,14.95,2018-12-01,2018,2018-12,Current,0
+,9500,8.81,36.0,A,A5,0.0,RENT,45000.0,Not Verified,credit_card,CA,34.61,2018-12-01,2018,2018-12,Current,0
+,7500,19.92,36.0,D,D3,2.0,RENT,60000.0,Not Verified,debt_consolidation,NY,8.0,2018-12-01,2018,2018-12,Current,0
+,5000,7.56,36.0,A,A3,10.0,MORTGAGE,36000.0,Not Verified,credit_card,MI,18.83,2018-12-01,2018,2018-12,Current,0
+,5000,8.81,36.0,A,A5,3.0,MORTGAGE,47000.0,Not Verified,debt_consolidation,CA,21.17,2018-12-01,2018,2018-12,Current,0
+,4400,12.98,36.0,B,B5,1.0,RENT,45000.0,Not Verified,credit_card,TX,12.85,2018-12-01,2018,2018-12,Current,0
+,6000,16.14,36.0,C,C4,10.0,RENT,50000.0,Not Verified,car,NY,23.28,2018-12-01,2018,2018-12,Current,0
+,19000,6.46,36.0,A,A1,10.0,MORTGAGE,80000.0,Not Verified,other,GA,17.79,2018-12-01,2018,2018-12,Current,0
+,21600,10.72,60.0,B,B2,10.0,MORTGAGE,106000.0,Not Verified,debt_consolidation,WI,14.2,2018-12-01,2018,2018-12,Current,0
+,32000,8.19,60.0,A,A4,0.0,MORTGAGE,50000.0,Not Verified,small_business,OK,12.77,2018-12-01,2018,2018-12,Current,0
+,40000,11.8,60.0,B,B4,10.0,MORTGAGE,86200.0,Source Verified,debt_consolidation,TX,15.72,2018-12-01,2018,2018-12,Current,0
+,10000,7.56,36.0,A,A3,5.0,MORTGAGE,125000.0,Not Verified,debt_consolidation,VA,8.84,2018-12-01,2018,2018-12,Current,0
+,11000,8.81,36.0,A,A5,3.0,RENT,75000.0,Not Verified,debt_consolidation,NY,11.97,2018-12-01,2018,2018-12,Current,0
+,6000,12.98,36.0,B,B5,1.0,RENT,29159.0,Source Verified,debt_consolidation,CO,9.26,2018-12-01,2018,2018-12,Current,0
+,15000,7.56,36.0,A,A3,0.0,MORTGAGE,148000.0,Not Verified,debt_consolidation,NY,9.58,2018-12-01,2018,2018-12,Current,0
+,15000,11.8,60.0,B,B4,10.0,RENT,35000.0,Not Verified,debt_consolidation,NY,7.96,2018-12-01,2018,2018-12,Current,0
+,5000,11.8,36.0,B,B4,,RENT,30000.0,Not Verified,credit_card,WA,9.48,2018-12-01,2018,2018-12,Current,0
+,12000,13.56,36.0,C,C1,3.0,RENT,50000.0,Source Verified,debt_consolidation,FL,26.21,2018-12-01,2018,2018-12,Current,0
+,6000,7.02,36.0,A,A2,3.0,MORTGAGE,60000.0,Not Verified,debt_consolidation,FL,9.52,2018-12-01,2018,2018-12,Current,0
+,19000,7.02,36.0,A,A2,8.0,MORTGAGE,40000.0,Source Verified,debt_consolidation,VA,22.62,2018-12-01,2018,2018-12,Current,0
+,7500,10.72,36.0,B,B2,1.0,RENT,57000.0,Source Verified,credit_card,PA,1.81,2018-12-01,2018,2018-12,Current,0
+,20000,15.02,36.0,C,C3,10.0,MORTGAGE,102000.0,Not Verified,debt_consolidation,GA,38.64,2018-12-01,2018,2018-12,Current,0
+,20000,14.47,36.0,C,C2,0.0,RENT,114000.0,Not Verified,debt_consolidation,CA,18.77,2018-12-01,2018,2018-12,Current,0
+,7000,18.94,36.0,D,D2,6.0,OWN,98000.0,Not Verified,debt_consolidation,OH,38.97,2018-12-01,2018,2018-12,Current,0
+,10000,11.8,36.0,B,B4,1.0,RENT,100000.0,Source Verified,debt_consolidation,IL,10.6,2018-12-01,2018,2018-12,Fully Paid,0
+,5000,8.19,36.0,A,A4,2.0,RENT,73000.0,Not Verified,credit_card,AZ,21.52,2018-12-01,2018,2018-12,Current,0
+,10000,13.56,60.0,C,C1,2.0,RENT,105000.0,Not Verified,credit_card,CA,21.25,2018-12-01,2018,2018-12,Current,0
+,15000,8.81,36.0,A,A5,,MORTGAGE,76000.0,Not Verified,home_improvement,NV,17.97,2018-12-01,2018,2018-12,Current,0
+,11200,12.98,60.0,B,B5,4.0,RENT,125000.0,Source Verified,credit_card,PA,21.9,2018-12-01,2018,2018-12,Current,0
+,5000,14.47,36.0,C,C2,2.0,RENT,33000.0,Not Verified,debt_consolidation,FL,3.64,2018-12-01,2018,2018-12,Current,0
+,8000,13.56,36.0,C,C1,10.0,RENT,119000.0,Not Verified,debt_consolidation,WA,17.94,2018-12-01,2018,2018-12,Current,0
+,3600,8.19,36.0,A,A4,8.0,MORTGAGE,45000.0,Not Verified,debt_consolidation,PA,18.21,2018-12-01,2018,2018-12,Current,0
+,22000,7.56,36.0,A,A3,10.0,MORTGAGE,70000.0,Not Verified,credit_card,GA,23.61,2018-12-01,2018,2018-12,Current,0
+,32000,12.98,60.0,B,B5,0.0,RENT,140000.0,Not Verified,house,VA,27.44,2018-12-01,2018,2018-12,Current,0
+,40000,8.19,60.0,A,A4,1.0,RENT,200400.0,Not Verified,credit_card,MD,6.5,2018-12-01,2018,2018-12,Current,0
+,2400,7.56,36.0,A,A3,,MORTGAGE,48000.0,Not Verified,credit_card,FL,16.43,2018-12-01,2018,2018-12,Current,0
+,6000,10.33,36.0,B,B1,4.0,MORTGAGE,90000.0,Not Verified,home_improvement,CT,14.83,2018-12-01,2018,2018-12,Current,0
+,13500,8.19,60.0,A,A4,0.0,MORTGAGE,74500.0,Not Verified,debt_consolidation,TN,22.13,2018-12-01,2018,2018-12,Current,0
+,3125,6.46,36.0,A,A1,10.0,RENT,80000.0,Not Verified,credit_card,OH,12.17,2018-12-01,2018,2018-12,Current,0
+,35000,11.31,60.0,B,B3,4.0,RENT,95000.0,Source Verified,debt_consolidation,LA,16.98,2018-12-01,2018,2018-12,Current,0
+,12000,8.81,36.0,A,A5,6.0,MORTGAGE,90000.0,Source Verified,credit_card,GA,5.55,2018-12-01,2018,2018-12,Current,0
+,35000,15.02,36.0,C,C3,8.0,RENT,76000.0,Source Verified,debt_consolidation,TX,26.32,2018-12-01,2018,2018-12,Current,0
+,12000,11.31,36.0,B,B3,1.0,MORTGAGE,120000.0,Verified,credit_card,GA,12.48,2018-12-01,2018,2018-12,Current,0
+,6000,6.46,36.0,A,A1,10.0,MORTGAGE,54000.0,Source Verified,debt_consolidation,PA,13.94,2018-12-01,2018,2018-12,Current,0
+,7400,26.31,36.0,E,E4,10.0,MORTGAGE,50000.0,Source Verified,debt_consolidation,NC,22.17,2018-12-01,2018,2018-12,Current,0
+,22000,6.46,36.0,A,A1,10.0,MORTGAGE,145000.0,Not Verified,credit_card,NY,23.44,2018-12-01,2018,2018-12,Current,0
+,24825,23.4,36.0,E,E1,10.0,MORTGAGE,85000.0,Verified,debt_consolidation,NC,33.74,2018-12-01,2018,2018-12,Current,0
+,10000,16.14,36.0,C,C4,10.0,MORTGAGE,94000.0,Source Verified,moving,PA,16.05,2018-12-01,2018,2018-12,Current,0
+,4000,17.97,36.0,D,D1,10.0,MORTGAGE,90000.0,Not Verified,other,PA,27.96,2018-12-01,2018,2018-12,Current,0
+,35000,7.02,36.0,A,A2,10.0,MORTGAGE,133000.0,Not Verified,debt_consolidation,MA,9.5,2018-12-01,2018,2018-12,Current,0
+,40000,7.02,36.0,A,A2,2.0,MORTGAGE,100000.0,Not Verified,debt_consolidation,WA,15.08,2018-12-01,2018,2018-12,Current,0
+,16000,11.8,60.0,B,B4,10.0,MORTGAGE,50000.0,Not Verified,debt_consolidation,MA,29.74,2018-12-01,2018,2018-12,Current,0
+,6000,13.56,36.0,C,C1,2.0,OWN,40000.0,Not Verified,debt_consolidation,NY,19.68,2018-12-01,2018,2018-12,Current,0
+,20000,11.31,36.0,B,B3,0.0,RENT,100000.0,Not Verified,debt_consolidation,NC,16.7,2018-12-01,2018,2018-12,Current,0
+,23000,8.81,60.0,A,A5,,MORTGAGE,85000.0,Not Verified,credit_card,WI,36.47,2018-12-01,2018,2018-12,Current,0
+,13000,8.81,36.0,A,A5,2.0,RENT,45000.0,Not Verified,credit_card,FL,24.51,2018-12-01,2018,2018-12,Current,0
+,30000,14.47,36.0,C,C2,0.0,OWN,240000.0,Not Verified,home_improvement,FL,2.43,2018-12-01,2018,2018-12,Current,0
+,15000,8.19,60.0,A,A4,7.0,MORTGAGE,30000.0,Verified,home_improvement,FL,14.99,2018-12-01,2018,2018-12,Current,0
+,25000,8.19,36.0,A,A4,2.0,RENT,145000.0,Not Verified,debt_consolidation,KY,32.53,2018-12-01,2018,2018-12,Current,0
+,18000,16.14,36.0,C,C4,0.0,RENT,58300.0,Not Verified,debt_consolidation,CA,23.88,2018-12-01,2018,2018-12,Current,0
+,30000,8.81,36.0,A,A5,0.0,RENT,127000.0,Source Verified,debt_consolidation,TX,19.49,2018-12-01,2018,2018-12,Current,0
+,6500,11.8,36.0,B,B4,10.0,MORTGAGE,100000.0,Source Verified,car,OH,7.19,2018-12-01,2018,2018-12,Current,0
+,10000,10.72,36.0,B,B2,10.0,MORTGAGE,68000.0,Source Verified,debt_consolidation,MD,5.47,2018-12-01,2018,2018-12,Current,0
+,5000,6.46,36.0,A,A1,3.0,MORTGAGE,125000.0,Source Verified,debt_consolidation,CO,21.55,2018-12-01,2018,2018-12,Current,0
+,30000,7.56,36.0,A,A3,0.0,MORTGAGE,85000.0,Not Verified,debt_consolidation,NC,24.52,2018-12-01,2018,2018-12,Current,0
+,20000,8.19,60.0,A,A4,3.0,MORTGAGE,98088.0,Not Verified,credit_card,CA,24.11,2018-12-01,2018,2018-12,Current,0
+,10000,16.14,36.0,C,C4,,OWN,65000.0,Verified,debt_consolidation,GA,25.89,2018-12-01,2018,2018-12,Current,0
+,20000,16.91,60.0,C,C5,1.0,MORTGAGE,250000.0,Not Verified,credit_card,KS,14.14,2018-12-01,2018,2018-12,Current,0
+,12000,20.89,36.0,D,D4,0.0,RENT,65000.0,Not Verified,debt_consolidation,NC,17.17,2018-12-01,2018,2018-12,Current,0
+,12000,7.56,36.0,A,A3,2.0,RENT,35000.0,Not Verified,credit_card,NY,14.85,2018-12-01,2018,2018-12,Current,0
+,6025,19.92,36.0,D,D3,2.0,RENT,40000.0,Source Verified,debt_consolidation,MA,19.02,2018-12-01,2018,2018-12,Current,0
+,10000,11.31,36.0,B,B3,6.0,OWN,100000.0,Source Verified,debt_consolidation,CA,7.02,2018-12-01,2018,2018-12,Current,0
+,15000,10.72,60.0,B,B2,2.0,MORTGAGE,30000.0,Not Verified,credit_card,PA,30.6,2018-12-01,2018,2018-12,Current,0
+,12000,8.19,36.0,A,A4,6.0,MORTGAGE,75000.0,Not Verified,other,IN,31.73,2018-12-01,2018,2018-12,Current,0
+,15000,12.98,60.0,B,B5,8.0,RENT,90000.0,Not Verified,major_purchase,TX,18.84,2018-12-01,2018,2018-12,Current,0
+,40000,19.92,60.0,D,D3,2.0,MORTGAGE,65000.0,Verified,credit_card,CA,39.16,2018-12-01,2018,2018-12,Current,0
+,16000,11.8,60.0,B,B4,10.0,MORTGAGE,60000.0,Source Verified,debt_consolidation,IN,9.98,2018-12-01,2018,2018-12,Current,0
+,30000,10.72,60.0,B,B2,0.0,OWN,85000.0,Source Verified,debt_consolidation,NY,9.88,2018-12-01,2018,2018-12,Current,0
+,4000,16.91,36.0,C,C5,4.0,RENT,50000.0,Not Verified,debt_consolidation,AR,7.35,2018-12-01,2018,2018-12,Current,0
+,10000,7.56,36.0,A,A3,7.0,RENT,72000.0,Source Verified,debt_consolidation,MA,11.37,2018-12-01,2018,2018-12,Current,0
+,35000,12.98,36.0,B,B5,0.0,RENT,115000.0,Source Verified,credit_card,TX,28.56,2018-12-01,2018,2018-12,Current,0
+,21000,7.02,36.0,A,A2,10.0,MORTGAGE,130000.0,Not Verified,debt_consolidation,CA,16.01,2018-12-01,2018,2018-12,Current,0
+,7000,10.72,36.0,B,B2,5.0,MORTGAGE,55000.0,Not Verified,credit_card,MI,11.72,2018-12-01,2018,2018-12,Current,0
+,12500,7.02,36.0,A,A2,1.0,RENT,53000.0,Source Verified,debt_consolidation,NY,28.95,2018-12-01,2018,2018-12,Current,0
+,35000,11.31,36.0,B,B3,10.0,RENT,99000.0,Source Verified,major_purchase,MI,7.02,2018-12-01,2018,2018-12,Current,0
+,16375,22.35,60.0,D,D5,4.0,MORTGAGE,95000.0,Verified,debt_consolidation,LA,47.15,2018-12-01,2018,2018-12,Current,0
+,12000,7.02,36.0,A,A2,0.0,RENT,67000.0,Not Verified,credit_card,MD,20.94,2018-12-01,2018,2018-12,Current,0
+,15000,14.47,36.0,C,C2,2.0,OWN,38000.0,Verified,debt_consolidation,MO,10.08,2018-12-01,2018,2018-12,Current,0
+,9000,13.56,36.0,C,C1,0.0,RENT,150000.0,Source Verified,credit_card,NY,8.39,2018-12-01,2018,2018-12,Current,0
+,25000,20.89,60.0,D,D4,0.0,RENT,45500.0,Source Verified,debt_consolidation,LA,26.04,2018-12-01,2018,2018-12,Current,0
+,30000,14.47,60.0,C,C2,0.0,MORTGAGE,120000.0,Not Verified,debt_consolidation,CA,16.96,2018-12-01,2018,2018-12,Current,0
+,20000,10.33,36.0,B,B1,0.0,MORTGAGE,185000.0,Verified,debt_consolidation,NY,28.54,2018-12-01,2018,2018-12,Current,0
+,6000,19.92,36.0,D,D3,10.0,MORTGAGE,65000.0,Source Verified,credit_card,NC,25.13,2018-12-01,2018,2018-12,Current,0
+,29000,14.47,36.0,C,C2,8.0,MORTGAGE,40000.0,Not Verified,major_purchase,NY,41.31,2018-12-01,2018,2018-12,Current,0
