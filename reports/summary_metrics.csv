@@ -1,0 +1,8 @@
+metric,value
+n_loans,2260668.0
+default_rate,0.1257787521210545
+avg_int_rate,13.092912944315573
+avg_loan_amnt,15046.931227849467
+total_exposure_loan_amnt,34016115925.0
+model_auc,0.6797828286232334
+model_avg_precision,0.38876131547858994
