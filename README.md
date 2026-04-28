@@ -19,6 +19,7 @@ Identify the main drivers of loan default risk and recommend strategies to reduc
 
 ## Repository Structure
 
+```
 data/
 ├── raw/
 │   └── loan.csv
@@ -47,6 +48,8 @@ docs/
 └── team_contribution_plan.md
 
 README.md
+```
+
 
 
 ---
