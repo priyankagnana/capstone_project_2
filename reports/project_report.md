@@ -1,4 +1,3 @@
-![Screenshot](./images/screenshot.png)
 # Default Risk Analysis and Portfolio Optimization  
 ## LendingClub Loan Data
 
@@ -121,7 +120,7 @@ The goal of this project is to identify key drivers of loan default risk and rec
 
 ## Dashboard
 
-![Tableau Dashboard](images/dashboard.png)
+![Tableau Dashboard](images/Dashboard.png)
 
 ---
 
